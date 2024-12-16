@@ -1,0 +1,12 @@
+global
+{
+	ZOOM	0.82
+	ORIGIN	-165.94	-36	-730.5
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	overviews/obj_thanatos.bmp
+	HEIGHT -730.5
+}

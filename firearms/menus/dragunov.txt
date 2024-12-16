@@ -1,0 +1,13 @@
+                                             
+Name: Dragunov SVD
+Credits: 15
+Type: Sniper Rifle
+Caliber: 7.62x54mm Rimmed
+Capacity: 10 Round Box Magazine
+ROF: Semi Automatic
+Description:
+With lineage traceable back to the WWII-
+era SVT-40, the rugged SVD is an accurate
+sniper rifle still in use today, ideal for
+the marksman who may need a quick follow-
+up shot.

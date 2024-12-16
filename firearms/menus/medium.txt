@@ -1,0 +1,9 @@
+
+Name: Level III Kevlar Vest
+Credits: 5
+Type: Armor
+Description:
+Provides moderate protection against 
+bullet penetration while giving a the user
+decent stamina.
+

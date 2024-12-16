@@ -1,0 +1,19 @@
+The Scout configuration is tailored to players who wish to take up the specialised role of artillery spotter. A talented spotter and a cooperative mortar team can inflict enormous casualties upon the enemy, and cut off entire sections of the battlefield.
+
+Armor:
+Level III Kevlar Vest
+Kevlar Helmet
+Kevlar Leg Protection
+
+Items:
+Bandages
+
+Weapons:
+Desert Eagle
+G36E
+
+Explosives:
+Concussion Grenade
+
+Skills:
+Artillery I

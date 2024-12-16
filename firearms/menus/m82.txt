@@ -1,0 +1,14 @@
+                                             
+Name: Barrett M82A1
+Credits: 18
+Type: Sniper Rifle
+Caliber: .50 BMG
+Capacity: 10 Round Box Magazine
+ROF: Semi Automatic
+Description:
+This massive rifle fires the same .50 caliber
+round used in heavy machineguns and the
+tail guns of the B-52 bomber. Although 
+intended to be fired on armored vehicles
+and airplanes, there is no denying its
+effectiveness against 'softer' targets.

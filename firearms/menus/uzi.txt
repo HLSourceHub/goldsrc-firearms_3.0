@@ -1,0 +1,17 @@
+                                             
+Name: UZI
+Credits: 9
+Type: Sub MachineGun
+Caliber: 9x19mm
+Capacity: 25 Round Box Magazine
+ROF: 600 Rounds Per Minute
+Description:
+The Uzi is built for close-quarters combat,
+its ROF making it controllable yet deadly.
+When equipped with a suppressor, it's also
+exceedingly quiet, making it an ideal choice
+for stealthy operations.
+
+[To suppress this weapon, you must have
+the "Stealth" skill.  Secondary fire attaches
+and detatches the suppressor.]

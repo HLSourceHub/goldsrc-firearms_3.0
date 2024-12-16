@@ -1,0 +1,16 @@
+First Aid Treatments (In order):
+    * Apply Sulfur - Applies a sulfur clotting compound to wounds
+       to prevent bleeding and alleviate pain.  Restores 10
+       health. Can only be used once per patient life.
+    * Bandaging - Applies bandages to a bleeding player.
+    * Sustain Patient Life - Sustains the life expectancy on downed
+       soldiers and awards you with one point.
+
+Field Medicine Treatments (In order):
+    * Suturing - Provides quick battle field suturing and treatment
+       of wounds restoring 25 health. Can only be used once per
+       patient life.
+    * Leg Mending - Sets fractured bones and applies a splint
+       allowing players to move normally.
+    * MEDEVAC - Will MEDEVAC a downed soldier gaining an extra
+       reinforcement point for your forces.

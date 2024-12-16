@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.33
+	ORIGIN	224.00	-16.00	338.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/tc_basrah.bmp"
+	HEIGHT	338.00
+}

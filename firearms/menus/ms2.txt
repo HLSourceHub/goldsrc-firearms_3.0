@@ -1,0 +1,5 @@
+This is the proficiency of weapon usage. You are very
+disciplined in breathing techniques or perhaps a combat
+veteran.
+
+Provides a +3 bonus to accuracy.

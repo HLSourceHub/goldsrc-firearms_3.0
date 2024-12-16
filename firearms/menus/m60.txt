@@ -1,0 +1,14 @@
+                                             
+Name: M60
+Credits: 18
+Type: General Purpose Machine Gun
+Caliber: 7.62x51mm NATO
+Capacity: Belt-Fed, 100 Round Boxes
+ROF: 500 Rounds Per Minute
+Description:
+When used prone to take advantage of its
+bipod, the M60 is a highly effective weapon,
+capable of turning any area into a lethal
+kill zone. Feeding from a 100 round belt,
+it makes an excellent choice for providing
+cover or suppressive fire for a squad.

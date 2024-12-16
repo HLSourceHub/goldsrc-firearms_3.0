@@ -1,0 +1,12 @@
+global
+{
+	ZOOM	0.87
+	ORIGIN	-783.56	-271.44	-1152.00
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	overviews/ps_coldwar.bmp
+	HEIGHT -1152.00
+}

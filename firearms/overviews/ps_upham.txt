@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.05
+	ORIGIN	1480	 -120	-112
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/ps_upham.bmp"
+	HEIGHT	-112
+}

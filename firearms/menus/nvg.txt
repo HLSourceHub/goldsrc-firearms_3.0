@@ -1,0 +1,9 @@
+Name: Night Vision Goggles
+Credits: 3
+Type: Item
+Description:
+Night vision goggles allow you to see in the
+dark by amplifying ambient light using a
+combination of chemical and electrical 
+processes. The downside of this effect is that
+the image it produces is all green.

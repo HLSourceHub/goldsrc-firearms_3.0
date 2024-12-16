@@ -1,0 +1,7 @@
+
+Name: Kevlar Arm Protection
+Credits: 2
+Type: Armor
+Description:
+Protects arms from bullet penetration.
+

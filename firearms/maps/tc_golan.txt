@@ -1,0 +1,28 @@
+TC_Golan
+By Alex Jordan (aka AlejandroDaJ)
+
+--==STORY==--
+A localized Syrian counterattack threatens Israeli possession
+of a strategic defensive system on the Golan Heights. Syrian
+forces (Red Team) has captured one compound, while the Israelis
+(Blue Team) have fallen back to an auxiliary compound. Both sides
+are now battling for control of the hill. 
+
+--==OBJECTIVES==--
+Take control of the TC points in the village, the central bunker,
+and the mobile command track in the forest.
+
+For each point held, 1 reinforcement is deducted from the opposing
+team every 20 seconds, the system used by BF1942.
+
+--==2.8 Changes==--
+•The cliffs have been CLIPed to prevent exploiting
+•The trumpet sound-playing ambient generic entities have been
+removed from the TC points. The push entities still causes the
+trumpet sound to play, but not when the point is grabbed by someone
+with Stealth. In the 2.7 version, even a player with Stealth
+would trigger the trumpet noise.
+
+--==CREDITS==--
+Marty, for his APC prefab
+Ben, for his flyby modelling.

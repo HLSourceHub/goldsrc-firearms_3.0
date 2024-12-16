@@ -1,0 +1,12 @@
+                                             
+Name: AK-47
+Credits: 14
+Type: Assault Rifle
+Caliber: 7.62x39mm Russian
+Capacity: 30 Round Box Magazine
+ROF: 600 Rounds Per Minute
+Description:
+Developed shortly after WWII, this
+sturdy, ultra-reliable assault rifle fires
+a heavier cartridge than most, and has
+an attached bayonet for close combat.

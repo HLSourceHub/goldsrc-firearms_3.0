@@ -1,0 +1,13 @@
+Remington M870
+Credits: 8
+Type: Shotgun
+Caliber: 12 Gauge, 3 Inch Buckshot
+Capacity: 7 Round Tubular Magazine
+ROF: Pump-Action
+Description:
+The M870 is ideal for close-range house-to-
+house or brush fighting, but suffers at long
+range due to its spread and low velocity
+projectiles. Great for engaging moving targets,
+and its stopping power at close range is
+undeniable.

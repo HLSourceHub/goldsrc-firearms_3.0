@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.03
+	ORIGIN	560.00 	-544.00	-112.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/obj_willow.bmp"
+	HEIGHT	-112.00
+}

@@ -1,0 +1,13 @@
+                                             
+Name: M93R
+Credits: 5
+Type: Machine Pistol
+Caliber: 9x19mm Parabellum
+Capacity: 20 Round Box Magazine
+ROF: 1200 Rounds Per Minute
+Description:
+Designed to provide more close-up fire-
+power than a conventional 9mm, this
+machine pistol has an extended magazine,
+and a folding front grip to help control
+recoil when firing three-round bursts.

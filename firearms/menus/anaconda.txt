@@ -1,0 +1,16 @@
+                                             
+Name: Anaconda
+Credits: 4
+Type: Revolver
+Caliber: .44 Magnum
+Capacity: 6 Round Cylinder
+ROF: Double Action.
+Description:
+Chambered for the powerful .44 Magnum,
+this heavy revolver is powerful and
+accurate. Many shooters choose to mount
+a scope for extra precision on long-range
+shots.
+
+[To use the scope on the Anaconda, you
+must choose the "Marksmanship I" skill.]

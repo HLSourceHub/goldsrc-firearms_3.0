@@ -1,0 +1,12 @@
+                                             
+Name: Saiga 12K
+Credits: 9
+Type: Shotgun
+Caliber: 12 Gauge, 2.75 Inch Buckshot
+Capacity: 7 Round Box Magazine
+ROF: Semi Automatic
+Description:
+The Saiga 12K is a semi automatic shotgun, 
+able to unload a full magazine of buckshot
+as quickly as you can pull the trigger, it's
+the ultimate in close-range firepower.

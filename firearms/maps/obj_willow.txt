@@ -1,0 +1,82 @@
+Willow (objective & TC)
+
+ By Graham Davis
+
+** Note: this map supports detail textures. 
+   To turn this on, type r_detailtextures 1 
+   in the console.  This works only in Steam 
+   and with newer graphics cards.
+**
+
+Special thanks to:
+ 
+   - Svante "xerent" Ekholm for some
+     of the bush and branch textures
+   - "Dash" for the original sky, and
+     Ben for updating it
+   - Ben for the splash sprite and
+     floodlight models
+   - The testers and the rest of the 
+     FA community for feedback
+
+
+Gameplay Hints:
+
+The map is twilight, so night vision goggles
+might come in handy.  Also, the floodlights
+distributed throughout the map can be shot
+out if you wish to have more darkness for
+stealth operations.  If a main objective
+is capped, all the lights will turn back
+on for the next round.  Otherwise, if a 
+light is shot out, it won't turn back on.
+
+
+Red team objective:
+
+The Blue team is advancing on your base
+from a nearby forested region.  Your only
+hope of blocking their advancement is to
+fire a missile at a key part of their 
+path to block them off.  To do this, you must 
+reach the Command Post setup at the large log,
+grab the missile targetting pack and place 
+it at blue's advance point.  Placing the 
+missile target will trigger the 
+launcher's 120 second countdown.  The Blue 
+team will be trying to destroy your
+launcher, so defending it is also an
+important key to your success.  Controlling
+the central Command Post will also increase
+you chances of winning.
+
+
+Blue team objective:
+
+Your army is preparing a large scale attack
+on a nearby base held by the Red team. Your
+squad has been sent out first, with the
+goal of destroying the Red team missile
+launcher.  Your enemies will be trying to 
+target your advance point so their launcher
+can create a baracade of reckage. Your mission 
+is to reach central Command Post to grab a
+claymore mine, and use it to destroy the Red 
+missile laucher at their base.  The Red team
+is wary of an attack, so there will be
+resistance throughout the area.  Controlling 
+the Command Post will also give you an 
+advantage over the enemy.
+
+
+Scoring:
+
+Each team receives 10 reinforcements, and 5 
+kills when their objective is completed.
+Capping the central Command Post will award 
+your team 2 reinforcements, and every 30
+seconds you hold this point, the enemy will
+lose 1 reinforcement.
+
+
+

@@ -1,0 +1,6 @@
+This is the advanced battle field mortarman skill. With this
+skill, you will now have the ability to build and dismantle
+mortar equipment. You must first have the Artillery I skill.
+
+   *Build Mortar Weapon (useskill buildmortar)
+   *Dismantle Mortar Weapon (useskill dismantle)

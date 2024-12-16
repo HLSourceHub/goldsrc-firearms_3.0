@@ -1,0 +1,41 @@
+Thanatos (multiple objectives)
+
+By Sulsa (Stephen Jackson)
+   Velvety (Graham Davis)
+   Ben Irwin
+
+THANATOS:  The greek god of death.
+
+Objective 1- Destroy the warlord's 3 resources.
+scoring: -5 reins per obj destroyed / +1 frag for all 3
+
+A ruthless warlord has been inflicting heavy casualties on your forces
+through guerilla tactics and unorthodox warfare.  
+It is time to secure the city once and for all.  Your team must destroy all 3
+objectives to win.
+Place bombs at the opposing team's Ammo Supply, Radio Room and Command APC.
+These DO NOT need to be done in order!
+
+OBJECTIVE 2- Capture the Intelligence in the central office.
+scoring: +15 reins per document capture / +3 frags
+
+There is important information in the warlord's possession detailing weapons 
+shipments, planned military actions and field command center locations.  
+These documents must be secured and brought back to your team's safe.  
+This is a 3 man job.  Good luck!
+
+Neither objective in OBJ_THANATOS requires the completion 
+of the other.
+
+sulsa@firearmsmod.com
+
+
+
+=SPECIAL THANKS=
+
+Clan -}uP{-
+Clan SSoF
+Clan Ir8
+Clan =]|SK|[=
+Clan [Limitless]
+Explosion sounds from -=WingMan=-

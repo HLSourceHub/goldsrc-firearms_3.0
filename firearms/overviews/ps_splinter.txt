@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.03
+	ORIGIN	48.00	180.00	684.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/ps_splinter.bmp"
+	HEIGHT	684.00
+}

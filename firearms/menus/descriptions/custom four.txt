@@ -1,0 +1,22 @@
+The Specialist configuration is ideal for players who wish to remain undetected. With a combination of the Stealth skill, M92FS (suppressible), and MP5A4 (reconfigurable as the far quieter MP5SD5) the player can remain silent without sacrificing too much firepower.
+
+Armor:
+Level II Kevlar Vest
+Kevlar Helmet
+Kevlar Leg Protection
+Kevlar Arm Protection
+
+Items:
+Bandages
+
+Weapons:
+M92FS
+MP5A4
+
+Explosives:
+Concussion Grenade
+M54 Fragementation Grenade
+Claymore Mine
+
+Skills:
+Stealth

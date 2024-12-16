@@ -1,0 +1,12 @@
+global
+{
+	ZOOM	0.99
+	ORIGIN	608.00	-384	-316
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	overviews/ps_crash.bmp
+	HEIGHT -316
+}

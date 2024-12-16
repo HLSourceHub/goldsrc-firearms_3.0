@@ -1,0 +1,70 @@
+The Bocage (Objective)
+
+By Alex Jordan and Graham Davis
+
+Infantry fighting beyond the beachhead in the French bocage
+must infiltrate an enemy-held village and destroy four objectives:
+first, 3 guns must be destroyed so you can reach the bridge, which must also be destroyed.
+
+-=BLUE TEAM=-
+• First find the 3 field guns and destroy them by placing a bomb in each of their
+  bomb areas.
+• Next, find the bridge and destroy it as well.
+• Destroy items by finding the floating boxes with red handles and walking into them for a hold
+  of 3 seconds long.
+• Use the tactical map in your spawn to get your bearings.
+• Destroying any given field gun awards you 3 frags and 2 reinforcements
+• Setting each bridge bomb (2 total) awards you 2 frags. Once the bridge explodes, Blue team
+is awarded 4 reinforcements (10 total for the round).
+
+-=RED TEAM=-
+• You will receive 3 extra reinforcements every 4 minutes to help hold off blue.
+• Defend the bridge and the guns.
+
+---===Extra gameplay notes===---
+• If blue tries to reach the bridge before all 3 guns are destroyed, the remaining
+guns will fire mortars onto the blue team (so destroy all guns so you can reach the bridge!)
+• Once the 3 guns are destroyed and only the bridge remains, the red team will all spawn at either
+the bridgehouse area, or an equi-distance from the bridge as blue's spawn.  This should create
+intense final battles for the bridge area. 
+• you must remain in each bomb area for 4 seconds to place a bomb.  If you move from the bomb area,
+  the 4 second time will restart.
+
+---===2.8 Changes===---
+• There is now an underground sewer tunnel running from the field gun to near the bridge. It is
+covered by a metal grate that only opens after all 3 guns have been destroyed. It is also only
+navigable with Night Vision Goggles.
+• The objective system has been redone to be more efficient.
+• Planting explosives now takes 4 seconds. Despite the map's earlier claims, planting did NOT take
+3 seconds. Although the map counted down from 3, it only updated the count every 1.5 seconds...
+hence, it used to take 4.5 seconds to plant explosives.
+
+KNOWN BUGS:
+• If you break off planting explosives and try planting again within 5 seconds, either the count-
+down restarts where it left off or it restarts where it left off, abruptly resets, and then proceeds
+to count down from 4 again.
+• There is a VIS-ing bug at the end of the new sewer tunnel that causes the water near the bridge
+to flicker into view briefly.
+
+---===2.65 Changes===---
+• Attempting to enter any opponent's spawn (including the house near the warehouse where Red spawns
+alternately after the three guns have been destroyed) results in an instant kill. This is to
+prevent spawn-camping. For those of you that have no attention spans, a message as to why you died
+appears after entering a non-campable zone.
+• Extra route from the crossroads to the bridge added.
+• Extra route from Blue's spawn added that is shielded from the clock tower.
+• Minor wpoly and performance tweaks.
+
+
+-=THANKS TO!=-
+•Fingers, and his great ik2k.wad
+•velvEtY and Scott, for FA team support 
+•Belial Archer and velvEtY, for additional textures
+•Broct, Killtek, Dsleeper, and the FA 2.6 team for compiling
+and testing for me
+•Svante "xerent" Ekholm for his great tree prefabs
+•Hitman and Chainsaw, for the T-72 tank prefab
+•Bill Gates and Windows, for those default media nature noises
+that have been taking up my HD for so long without any real
+purpose
+•Anyone else I forgot, be sure to let me know

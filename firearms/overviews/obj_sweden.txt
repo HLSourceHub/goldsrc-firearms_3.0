@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.04
+	ORIGIN	-128 	1112	120
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/obj_sweden.bmp"
+	HEIGHT	120
+}

@@ -1,0 +1,9 @@
+Grenadier
+medium_armor
+helmet
+arms
+M16
+92f
+frag
+bandages
+artillery1

@@ -1,0 +1,6 @@
+
+Name: Kevlar Leg Protection
+Credits: 2
+Type: Armor
+Description:
+Protects legs from bullet penetration.

@@ -1,0 +1,13 @@
+global
+{
+	ZOOM	1.04
+	ORIGIN	-415.00	1038.00	-1072
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE "overviews/obj_armory.bmp"
+	HEIGHT	-1072
+}
+

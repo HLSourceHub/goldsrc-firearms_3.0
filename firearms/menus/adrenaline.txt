@@ -1,0 +1,4 @@
+Adrenaline
+When taken, it will restore your stamina to full.  If given
+to a player standing directly in front of you, it will raise
+the stamina of that player to full.

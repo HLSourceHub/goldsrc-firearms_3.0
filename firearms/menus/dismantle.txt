@@ -1,0 +1,6 @@
+This ability will allow you to dismantle your mortar. You must be 
+standing by your mortar in order to dismantle it. If there are any 
+rounds in the mortar's supply when it is dismantled, they will be added
+to your inventory. Remember, you can only carry 5 rounds at a time,
+so any additional rounds will be discarded. You can not dismantle
+any mortar but your own.

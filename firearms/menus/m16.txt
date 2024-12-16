@@ -1,0 +1,20 @@
+                                             
+Name: M16A2
+Credits: 13
+Type: Assault Rifle
+Caliber: 5.56x45mm NATO
+Capacity: 30 Round Box Magazine
+ROF: 800 Rounds Per Minute
+Description:
+The M16A2's accuracy is favored by many,
+although its restriction to semi automatic and
+burst-fire only can be somewhat of a draw-
+back in heavy fighting. Grenadiers may use
+an under-barrel M203 grenade launcher with
+this weapon, adding flexibility and firepower
+to their squad.
+
+[To equip and use the M203, you must
+choose the "Artillery I" skill.  Secondary
+fire switches between the M16A2 and the
+M203.]

@@ -1,0 +1,8 @@
+
+Name: Level II Kevlar Vest
+Credits: 0
+Type: Armor
+Description:
+Being the lightest armor available provides very
+little protection but it's light weight gives
+the user better endurance.

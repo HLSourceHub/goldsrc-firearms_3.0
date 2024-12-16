@@ -1,0 +1,12 @@
+                                             
+Name: Bizon-II
+Credits: 10
+Type: Sub Machinegun
+Caliber: 9x19mm Parabellum
+Capacity: 66 Round Helical Magazine
+ROF: 600 Rounds Per Minute
+Description:
+The Bizon's unusual helical magazine
+gives the user a massive amount of fire-
+power between reloads, without adding
+much to the bulk of the weapon.

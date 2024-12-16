@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	0.90
+	ORIGIN	-142.75 	134.06	1472
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/tc_golan.bmp"
+	HEIGHT	1472
+}

@@ -1,0 +1,13 @@
+                                             
+Name: G3A3
+Credits: 13
+Type: Battle Rifle
+Caliber: 7.62x51mm NATO
+Capacity: 20 Round Box Magazine
+ROF: 600 Rounds Per Minute
+Description:
+This full-power battle rifle is very accurate,
+and it's heavy round will penetrate much 
+better than a 5.56mm projectile. However, its
+high recoil and limited ammunition capacity make
+good fire control a necessity.

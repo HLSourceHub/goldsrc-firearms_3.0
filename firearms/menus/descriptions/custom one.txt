@@ -1,0 +1,18 @@
+The Assault configuration is a good set up for players who like to be right in the thick of things. Recommended for close range combat only, the FA-MAS' superior rate of fire will make short work of anyone unfortunate enough to be within range. The M93R is a very capable machine pistol, ideal as backup for the low capacity FA-MAS.
+
+Armor:
+Level III Kevlar Vest
+Kevlar Helmet
+
+Items:
+Bandages
+
+Weapons:
+M93R
+FA-MAS
+
+Explosives:
+M54 Fragementation Grenade
+
+Skills:
+Marksmanship I

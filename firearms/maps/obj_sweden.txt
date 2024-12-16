@@ -1,0 +1,104 @@
+Sweden (objective)
+
+ By Graham Davis
+
+** Note: this map supports detail textures. 
+   To turn this on, type r_detailtextures 1 
+   in the console.  This works only in Steam 
+   and with newer graphics cards.
+**
+
+Special thanks to:
+ 
+   - Ben for the tree model, howitzer
+     model, reeds model, lamp model
+     and splash sprite
+   - The testers and the rest of the 
+     FA community for feedback
+
+Objective outlines:
+
+Red Team:
+- capture the ammo from near the city gates
+  and bring it to the howitzer behind the
+  cabin.  This will destroy the first gates
+  to the city.
+- capture the ammo again to destroy the
+  inner gates and win the round.
+- stop blue from capturing all 3 windmills
+  and the searchlight (you can re-capture
+  the windmills in any order to prevent
+  them from capturing the final searchlight).
+
+Blue Team:
+- capture and control all 3 windmills to 
+  route power to the coastal searchlight.
+  You can capture the windmills in any
+  order, but you must control all 3 to
+  capture the searchlight.  Capturing the
+  searchlight will win the round.
+- prevent red from capturing the ammo 
+  from near the city gates and bringing
+  it to the howitzer behind the cabin.
+  They must capture it twice to win the
+  round.  Red can also re-capture 
+  windmills, so try to prevent that as
+  well.
+
+Scoring:
+
+Capturing a windmill (red or blue team) will 
+award your team with 1 reinforcement.  Also, 
+every 30 seconds a timer goes off, and for 
+every windmill your team controls when the 
+timer goes off, the other team will lose 1 
+reinforcement.  So control of the windmills 
+is important.  Red will receive 5 points 
+and reinforcements for destroying the outer 
+gates, and another 5 for destroying the inner 
+gates.  Blue will receive an extra 7 points 
+and reinforcements for turning on the 
+searchlight.
+
+Objective stories:
+
+Red Team:
+An unknown group has captured one of your
+captains.  Intelligence shows that the
+captors are holding your captain somewhere
+in this neutral Swedish city.  Your 
+squad has been sent ahead to destroy the
+city gates so the rest of your support can 
+advance and rescue the captain.  There is
+a howitzer stationed near a countryside
+cabin, but you will have to find ammo for
+it near the city walls.  You will have to
+capture the ammo and bring it to the howitzer
+to fire at the city gates.  There are two
+levels of gates, so you will have to do this
+twice.  Also, the defense will be trying
+to capture three windmills in the area, to
+route power to the searchlight on the coast.
+They plan to spot our incoming army ahead
+of time with this searchlight.  You must stop
+this plan.  Good luck soldiers!
+
+Blue Team:
+You have captured a spy attempting to steal
+top secret information from your 
+organisation.  There is an incoming squad
+that will be trying to clear a way into
+the city for their army's rescue attempt.
+They will be trying to find ammo for the 
+howitzer stationed near the countryside cabin.  
+You must stop their attempts.  Also, you must
+route power from all three windmills to the
+coastal searchlight so we can spot their 
+incoming army ahead of time.  You can capture 
+the windmills in any order, but you must 
+control all three before you can turn
+on the searchlight.  They will be trying to stop
+this plan, so be careful.  Good luck soldiers!
+
+
+

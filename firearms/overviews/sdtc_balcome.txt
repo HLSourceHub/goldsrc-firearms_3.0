@@ -1,0 +1,12 @@
+global
+{
+	ZOOM	1.09
+	ORIGIN	544.00	32.00	1568.00
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	overviews/sdtc_balcome.bmp
+	HEIGHT 1568.00
+}

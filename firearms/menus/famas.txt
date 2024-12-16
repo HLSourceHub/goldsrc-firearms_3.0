@@ -1,0 +1,13 @@
+                                             
+Name: FA-MAS
+Credits: 13
+Type: Assault Rifle
+Caliber: 5.56x45mm NATO
+Capacity: 25 Round Box Magazine
+ROF: 1100 Rounds Per Minute
+Description:
+Jokingly called "le Clarion" (the Bugle)
+by the French troopers issued with it, the
+FA-MAS' very high cyclic rate makes it
+difficult to control on full-auto, but gives
+it a lethal advantage at close range.

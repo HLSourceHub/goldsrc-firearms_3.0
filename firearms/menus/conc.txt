@@ -1,0 +1,8 @@
+Concussion Grenades
+Credits: 1
+Type: Explosive
+Description:
+Upon exploding, the concussion grenades
+deploy two submunitions, which also
+explode. The resulting concussion
+distracts and disorients nearby soldiers.

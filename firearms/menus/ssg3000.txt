@@ -1,0 +1,14 @@
+                                             
+Name: SSG 3000
+Credits: 15
+Type: Sniper Rifle
+Caliber: 7.62x51mm NATO
+Capacity: 5 Round Box Magazine
+ROF: Bolt-Action
+Description:
+This well-tuned Swiss rifle is a fine example
+of modern gunsmithing. Capable of putting
+all five rounds inside of a half-inch circle at
+100 yards, the SSG 3000 is an excellent
+choice for the sniper who knows how to pick
+his shots.

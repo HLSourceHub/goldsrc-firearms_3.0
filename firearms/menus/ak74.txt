@@ -1,0 +1,20 @@
+                                             
+Name: AK-74
+Credits: 14
+Type: Assault Rifle
+Caliber: 5.45x39mm Russian
+Capacity: 30 Round Box Magazine
+ROF: 800 Rounds Per Minute
+Description:
+Although its relatively light 5.45mm round
+doesn't have a high energy transfer, the 
+AK-74 makes up for this with a high rate of 
+fire and by being reasonably controllable.
+Grenadiers may use an under-barrel GP-25
+grenade launcher with this weapon, adding
+flexibility and firepower to their squad.
+
+[To equip and use the GP-25, you must
+choose the "Artillery I" skill.  Secondary
+fire switches between the AK-74 and the
+GP-25.]

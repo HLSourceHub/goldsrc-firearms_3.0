@@ -1,0 +1,15 @@
+The Machinegunner configuration is for players who enjoy spitting out very high quantities of ammunition in a very short time. If it is appropriately deployed, a single machinegun can dissuade enemies from using certain routes altogether. The machinegunner is an essential part of any squad, especially in situations that require a high amount of suppressive fire.
+
+Armor:
+Level III Kevlar Vest
+Kevlar Helmet
+
+Items:
+Bandages
+
+Weapons:
+M-1911A1
+M60
+
+Skills:
+Marksmanship I

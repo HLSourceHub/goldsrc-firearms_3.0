@@ -1,0 +1,6 @@
+
+Name: Kevlar Helmet
+Credits: 3
+Type: Armor
+Description:
+Protects head from bullet penetration.

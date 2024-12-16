@@ -1,0 +1,18 @@
+The Medic configuration is for players who wish to preserve life rather than take it away. A full set of armor makes the Medic a strong opponent, but also an easy target while he's busy helping fallen comrades. If it comes to combat, the Remington M870 shotgun will make short work of even the most heavily armored people at close range, but is comparable to throwing pebbles at longer distances.
+
+Armor:
+Level IV Kevlar Vest
+Kevlar Helmet
+Kevlar Leg Protection
+Kevlar Arm Protection
+
+Items:
+Bandages
+
+Weapons:
+Anaconda
+Remington M870
+
+Skills:
+First Aid
+Field Medicine

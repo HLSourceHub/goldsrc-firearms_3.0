@@ -1,0 +1,10 @@
+Medic
+heavy_armor
+helmet
+arms
+legs
+remington
+anaconda
+bandages
+first_aid
+field_medicine

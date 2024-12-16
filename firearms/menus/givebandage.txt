@@ -1,0 +1,3 @@
+Gives a bandage to the player directly in front of you. You
+must have bandages in your inventory in order to give them
+out. No player can hold more than 10 bandages at one time.

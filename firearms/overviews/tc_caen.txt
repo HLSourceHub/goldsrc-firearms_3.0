@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.05
+	ORIGIN	-434.88	79.63	132.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/tc_caen.bmp"
+	HEIGHT	132.00
+}

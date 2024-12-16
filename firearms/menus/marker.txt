@@ -1,0 +1,5 @@
+Places an artillery marker directly in front of you and will
+automatically make a radio call requesting direct fire
+from your mortar men. A marker must be placed outside.  
+Markers remain in the location where you place them until
+you place a new one or leave the game.

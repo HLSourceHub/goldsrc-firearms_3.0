@@ -1,0 +1,13 @@
+Name: Sterling L2A3MK4
+Credits: 8
+Type: Sub Machinegun
+Caliber: 9x19mm NATO
+Capacity: 34 Round Box Magazine
+ROF: 800 Rounds Per Minute
+Description:
+This lightweight, fast-firing weapon evolved
+from the WWII Sten. Although not very
+accurate, its high ROF makes it useful in
+close quarters. Often chosen as a backup
+weapon for snipers who may find themselves
+closer to their enemies than they had planned.

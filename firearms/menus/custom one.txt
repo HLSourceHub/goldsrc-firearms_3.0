@@ -1,0 +1,8 @@
+Assault
+medium_armor
+helmet
+famas
+93r
+frag
+bandages
+marksmanship1

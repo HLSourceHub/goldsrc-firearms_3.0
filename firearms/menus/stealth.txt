@@ -1,0 +1,3 @@
+Gives you a x2 damage bonus to knife attacks. Reduces foot
+step sound to 25% of normal. Radio sounds are not heard to 
+help prevent detection from the enemy in stealth situations.

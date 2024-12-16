@@ -1,0 +1,14 @@
+                                             
+Name: M249
+Credits: 19
+Type: Light Machine Gun
+Caliber: 5.56x45mm NATO
+Capacity: Belt-Fed, 200 Round Boxes
+ROF: 1000 Rounds Per Minute
+Description:
+Although the M249 SAW, or Minimi, fires a
+considerably smaller caliber round than
+the M60, it is equally capable of creating
+an effective base of fire thanks to its 
+extreme cyclic rate. This has made it a
+popular support weapon around the world.

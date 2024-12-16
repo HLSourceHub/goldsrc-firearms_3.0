@@ -1,0 +1,16 @@
+                                             
+Name: M92FS
+Credits: 4
+Type: Handgun
+Caliber: 9x19mm Parabellum
+Capacity: 15 Round Box Magazine
+ROF: Semi Automatic
+Description:
+Favored by many soldiers and professional
+shooters alike, the M92FS is a well-balanced,
+accurate handgun. This model may be equipped 
+with a suppressor at the shooter's discretion.
+
+[To suppress this weapon, you must have
+the "Stealth" skill.  Secondary fire attaches
+and detatches the suppressor.]

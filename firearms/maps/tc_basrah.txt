@@ -1,0 +1,36 @@
+Basrah (territorial control)
+
+by Prowl
+
+** Note: this map supports detail textures. 
+   To turn this on, type r_detailtextures 1 
+   in the console.  This works only in Steam 
+   and with newer graphics cards.
+**
+
+Objectives:
+
+House to house fighting in the center of Basrah
+as both teams struggle to control the 3 key points, 
+ChainSaws house, the main street and Zanes balcony.
+
+Notes:
+
+Red team are Iraqi forces
+Blue team are British forces
+
+Special Thanks to:
+
+Chainsaw for his tireless efforts in bringing the map up to scratch
+sulsa for his sulsa.wad and supporting me through this ordeal
+the maker of poke646.wad
+JonM for force.wad
+the max payne team for various textures
+Modest Genius for the flags
+ScAvenger001 for the anti-spawn camp setup
+the server admins who hosted the map throughout the developemnt
+Sublimo at Jolt, SirCampalot of DW and Reef of PoP
+and my bug testing team whose credits appear in the map
+Models downloaded from www.thedoenerking.de
+arabradio borrowed from Desert Combat mod
+everyone else that has been involved (there's a lot of you!)

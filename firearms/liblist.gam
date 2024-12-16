@@ -1,0 +1,20 @@
+// Firearms .dll Listing File
+
+game "Firearms"
+
+url_info "www.firearmsmod.com"
+url_dl "www.firearmsmod.com/files.shtml"
+version "3.0"
+size "342036633"
+hlversion "1120"
+svonly "0"
+cldll "1"
+type "multiplayer_only"
+nomodels "1"
+nohimodel "1"
+mpentity "info_firearms_detect"   // Only these maps will appear in the listing
+gamedll "dlls\firearms.dll"
+gamedll_linux "dlls/fa_i386.so"
+
+//startmap "TBD"
+//trainingmap "TBD"

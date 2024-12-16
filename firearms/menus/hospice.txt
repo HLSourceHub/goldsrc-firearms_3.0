@@ -1,0 +1,3 @@
+Will place a Hospice flag directly in front of you to indicate
+to other players that a medic is available to treat them at that
+location. A hospice flag is removed when you die.

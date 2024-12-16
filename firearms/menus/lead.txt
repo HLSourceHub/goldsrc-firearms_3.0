@@ -1,0 +1,5 @@
+This gives you the ability to better lead your troops through
+the use of extended radio and voice commands. Adds 4 more 
+radio commands and 4 more voice commands. It will also enable
+you to view detailed information about the current state of
+the battlefield.

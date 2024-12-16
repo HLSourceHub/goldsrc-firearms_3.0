@@ -1,0 +1,17 @@
+                                             
+Name: M18A1 Claymore Mine
+Credits: 4
+Type: Explosive
+Description:
+This remote-detonation mine uses
+a C4 charge to send some 600 ball
+bearings into its blast zone, doing
+phenomenal damage to anything in their
+path. The M18A1 is ideal for ambushes,
+and can be used as a booby trap when
+set to "trip" mode.
+
+[To set an M18A1 on "trip" mode, use
+your secondary fire command.  Once set
+for "trip," you will not be able to
+switch back to manual detonation.]

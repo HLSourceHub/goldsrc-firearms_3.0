@@ -1,0 +1,15 @@
+14
+firemode_full		320 320hud02	80	196	48	8
+firemode_burst		320 320hud02	80	188	48	8
+firemode_semi		320 320hud02	80	180	48	8
+weapon			320 320hud01	160	120	80	20
+weapon_s		320 320hud01	160	140	80	20
+ammo			320 320hud02	244	125	11	18
+crosshair		320 crosshairs	0	0	24	24
+firemode_full		640 640hud01	0	180	96	16
+firemode_burst		640 640hud01	0	196	96	16
+firemode_semi		640 640hud01	0	212	96	16
+weapon			640 640hud04	0	45	170	45
+weapon_s		640 640hud04_2	0	45	170	45
+ammo			640 640hud01_2	112	232	15	24
+crosshair		640 crosshairs	0	0	24	24

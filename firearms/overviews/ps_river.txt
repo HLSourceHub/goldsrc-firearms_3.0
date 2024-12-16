@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.04
+	ORIGIN	-1136	32	-544
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/ps_river.bmp"
+	HEIGHT	-544
+}

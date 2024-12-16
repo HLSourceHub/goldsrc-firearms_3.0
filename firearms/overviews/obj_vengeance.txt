@@ -1,0 +1,13 @@
+global
+{
+	ZOOM	0.87
+	ORIGIN	-48.00	28.00	-396.00
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE "overviews/obj_vengeance.bmp"
+	HEIGHT	-396
+}
+

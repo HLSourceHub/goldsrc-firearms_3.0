@@ -1,0 +1,28 @@
+Operation Marie (Push)
+
+ By Michael Hope
+ Updated by Alex Jordan
+
+Blue Force storms the beach and gets to
+the town the Red Force is hiding out in.
+Red Force pushes forward to the beach and 
+prevents the invasion of its chokehold 
+on the North Banks.
+
+---===2.9 Changes===---
+•Light panels have been removed from the cave, making it
+completely dark. NVG users, enjoy!
+
+---===2.8 Changes===---
+•Fixed the hall-of-mirror effect in the alternate red route to
+the bridge
+•Added a switchback path route from the canyon to the blue side
+of the bridge, which should hopefully facilitate map balance
+
+
+----------------------
+
+Badlands sky map by The Mighty Pete.
+Tree prefab by Xerent.
+
+

@@ -1,0 +1,19 @@
+--------------
+Firearms Half-Life server commands
+Release Candidate 2.6 -- commands.txt
+http://www.firearmsmod.com
+--------------
+
+These are the Firearms specific server commands you can use with the console.  
+
+sv_useskills x   
+-- Replace x with 0, 1, 2, or 3
+---- 0 will disable the skill system
+---- 1 will use the rank advance mode.  Whenever a player goes up in rank they will be awarded a skill.  
+---- 2 will allow players to choose 4 skills upon joining the game.  You will not be able to obtain more.  This can be ideal for clan matches
+---- 3 will give all skills to all players.  This also can be ideal for clan matches 
+
+mp_friendlyfire x
+-- Replace x with 0 or 1
+---- 0 will disable friendly fire.  Team mates will not be able to harm each other.
+---- 1 will enable friendly fire.  Team mates will be able to harm and kill each other.  If constant team killing occurs, server will kick offender and close their copy of half-life.

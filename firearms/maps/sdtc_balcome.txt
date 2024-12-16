@@ -1,0 +1,14 @@
+Balcome
+
+ By Phil Mapleback "Chainsaw"
+
+PRIMARY OBJECTIVE (SD)
+Destroy the other teams truck with a claymore
+while defending yours:
++5 points winning team 
+-5 reinforcements loosing team
+Teams respawn.
+
+SECONDARY OBJECTIVE (TC)
+Hold the house for 60 seconds:
++1 reinforcement

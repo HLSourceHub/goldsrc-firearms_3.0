@@ -1,0 +1,12 @@
+The Veteran configuration is ideal for players who are confident in their ability. The hard-hitting M-1911A1 and G3A3 will both inflict a lot of damage on opponents, but they also have a very limited magazine capacity. You had better be on target with these weapons.
+
+Armor:
+Level IV Kevlar Vest
+Kevlar Helmet
+
+Weapons:
+M-1911A1
+G3A3
+
+Skills:
+Marksmanship I

@@ -1,0 +1,5 @@
+You're basically a hard-core grunt. You spend your free time
+on the obstacle course, and you have become stronger and
+more agile. Provides 50% reduction in non-fatal fall damage, 
+no leg injuries due to fall damage, and a 50% reduction in the 
+time it takes to go prone.

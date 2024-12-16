@@ -1,0 +1,35 @@
+TC_CAEN
+
+Map Objective: There are three territorial control points, which must be 
+captured in order.
+-From blue's side they go: 
+  train station > radio studio (top floor of building with elevator) > armory
+-From red's side they go:
+  armory > radio studio (top floor of building with elevator) > train station
+-For every 30 seconds (cumulatively) that a team holds all the points 
+("controls the map"), they gain 1 reinforcement, and the enemy team 
+loses 1.
+-For every 60 seconds (cumulatively) that a team holds all the points, 
+each team member gains 1 point.
+-There are signs on the exterior and interior of each cap point to indicate 
+which team controls that point.
+-After a point is capped, there is a five to six second delay before the next
+point can be capped or the opposing team can recap the point.
+
+Credits:
+
+  Custom textures by:
+    Marc Schroder
+    joe_smoe
+    Megamike
+    Counterstrike
+    Remedy
+    jonm
+    Kamikazi
+    me!
+  Elevator entities by Golden Shadow.
+  Some model skins partially based on the photography of Pierre Delattre.
+
+Thanks for playing my map.
+
+                     -XXXXXXXXXXXXXXXXXX

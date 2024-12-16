@@ -1,0 +1,12 @@
+global
+{
+	ZOOM	1.01
+	ORIGIN	545.5	-6.25	-1600.00
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	overviews/sd_oberland.bmp
+	HEIGHT -1600.00
+}

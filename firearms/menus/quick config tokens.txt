@@ -1,0 +1,190 @@
+Quick Config Token List
+By Eric PL Smith (kncogs@xmission.com)
+Revised by Scott Rennie (sasrennie@home.com) - June 29 2001
+Revised Ben Irwin (ben@firearmsmod.com) - May 15 2002, July 11 2003, March 24 2004
+
+The following is a list of the valid tokens that can be placed in the “custom *.txt”
+file (where * is a number) to be loaded from the Configurations menu by clicking the
+“Quick Config” button. These files are fully customizable.
+
+The first line is the name of your custom class ('Sniper', for example). This name will
+be displayed on the desgnated button when you choose a preconfigured class. The _armor
+tokens are required next, and must lead the rest of the configuration tokens. They are
+the tokens that determine the amount of credits that the rest of the configuration will
+use to buy the items that follow not to include skill tokens. Putting these tokens
+anywhere in the file but at the beginning of your desired configuration, will cause all
+items above this token to be discarded. The 3 valid _armor tokens are:
+
+	light_armor
+	medium_armor
+	heavy_armor
+
+The rest of the item tokens do not have to be in any particular order but they must be in
+the order that you would like them to be purchased in. If there are not enough credits
+available to make the desired purchase it will be discarded and the next token will be
+evaluated. The valid item purchase tokens are:
+
+	helmet			- Kevlar Helmet	
+	arms			- Kevlar Arm Protection
+	legs			- Kevlar Leg Protection
+	frag			- M54 Fragmentation Grenade
+	conc			- Concussion Grenade
+	claymore		- M18A1 Claymore Mine
+	bandages		- Bandages
+	nvg			- Night Vision Goggles
+	1911a1			- Colt Government Model 1911A1
+	anaconda		- Colt Anaconda
+	93r			- Beretta Model 93R
+	92f			- Beretta Model 92F
+	deagle			- Magnum Research/IMI Desert Eagle
+	remington		- Remington M870
+	12k			- Saiga 12K
+	sterling		- Sterling L2A3MK4
+	mp5			- Heckler and Koch MP5A4
+	bizon			- Bizon-II
+	uzi 			- UZI
+	ak47			- AK-47
+	ak74			- AK-74 
+	famas			- FA-MAS
+	g3a3			- Heckler and Koch G3A3
+	g36e			- Heckler and Koch G36E
+	m14			- M14
+	m16			- Colt M16A2
+	m4			- Colt M4 Carbine
+	m82			- Barrett M82A1
+	dragunov		- Dragunov SVD
+	m60			- M60
+	pkm			- PKM
+	m249			- M249
+	m79			- M79
+
+
+The skill tokens can be placed anywhere in the file you desire and must be placed in
+the order that you would like them to be chosen.  When a skill token is chosen, you
+will be charged for the skill, the skill will be given and the next token will be
+evaluated. If the skill is already chosen, then the token will be discarded but you
+will still be charged for the skill.  All minor skills must precede its major skill.
+For instance, you can’t have Field Medicine before First Aid, Artillery II before
+Artillery I or Marksmanship II before Marksmanship I.  Otherwise you will be charged
+for the skill but the skill will be discarded.
+
+It is recommended that you keep all 10 skills tokens in this file regardless of the
+servers “sv_useskills” setting.  Although you will probably not be able to obtain all
+skills, the purpose is that so that if you have the skill points available, then skill 
+purchasing will proceed in order until all your available skill points are spent.  The 
+amount of skill points are determined by the server setting.  If on a “sv_useskills 0” 
+server, all skill tokens will be discarded.  On a “sv_useskills 1” rank advance server,
+you will earn a skill point at time of rank advance with 1 automatic skill point on
+server join.  A “sv_useskills 2” server will award you 4 skill points to spend regardless
+of rank.  On a “sv_useskills 3” server, all skill tokens are discarded because you have
+all skills to begin with.  The following tokens are the valid skill tokens:
+
+	marksmanship1
+	marksmanship2
+	nomenclature
+	battlefield_agility
+	leadership
+	first_aid
+	field_medicine
+	artillery1
+	artillery2
+	stealth
+
+
+Here are some sample Quick Config files.
+
+-----------------------------------------------------------------
+Assault
+medium_armor
+helmet
+arms
+legs
+famas
+anaconda
+frag
+marksmanship1
+battlefield_agility
+marksmanship2
+nomenclature
+first_aid
+stealth
+leadership
+field_medicine
+artillery1
+artillery2
+-----------------------------------------------------------------
+Medic
+heavy_armor
+helmet
+arms
+legs
+remington
+anaconda
+bandages
+first_aid
+field_medicine
+marksmanship1
+stealth
+battlefield_agility
+marksmanship2
+nomenclature
+leadership
+artillery1
+artillery2
+-----------------------------------------------------------------
+Veteran
+heavy_armor
+helmet
+G3A3
+1911a1
+bandages
+marksmanship1
+leadership
+artillery1
+first_aid
+battlefield_agility
+nomenclature
+artillery2
+marksmanship2
+field_medicine
+stealth
+-----------------------------------------------------------------
+Combat Sniper
+light_armor
+helmet
+arms
+SSG3000
+uzi
+bandages
+stealth
+marksmanship1
+marksmanship2
+battlefield_agility
+nomenclature
+artillery1
+first_aid
+leadership
+artillery2
+field_medicine
+-----------------------------------------------------------------
+Scout
+medium_armor
+helmet
+arms
+g36e
+deagle
+conc
+bandages
+artillery1
+battlefield_agility
+stealth
+marksmanship1
+nomenclature
+first_aid
+marksmanship2
+artillery2
+field_medicine
+leadership
+-----------------------------------------------------------------
+
+I think you pretty much get the idea. Have fun!

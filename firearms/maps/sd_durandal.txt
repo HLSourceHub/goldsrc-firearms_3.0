@@ -1,0 +1,14 @@
+DURANDAL (Search and Destroy)
+
+by David Reeves (Hitman)
+
+RED TEAM: Target crates have stenciled M60
+and M16 markings on their tops. Use of
+explosives recommended to destroy crates.
+
+BLUE TEAM: You are part of a NATO 
+Task Force. Defend your supply crates and
+destroy the enemy crates. Your targets
+will be marked with FA-MAS and missle
+symbols on the top. Use of explosives
+recommended for this task.

@@ -1,0 +1,17 @@
+                                             
+Name: MP5A4
+Credits: 10
+Type: Sub Machinegun
+Caliber: 9x19mm Parabellum
+Capacity: 30 Round Box Magazine
+ROF: 900 Rounds Per Minute
+Description:
+The closed-bolt MP5A4 is known for its
+accuracy and reliability. A shooter with the
+correct parts on hand may reconfigure it as
+a suppressed MP5SD5 for when a stealthier
+approach is needed.
+
+[To suppress this weapon, you must have
+the "Stealth" skill.  Secondary fire attaches
+and detatches the suppressor.]

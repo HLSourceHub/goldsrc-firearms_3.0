@@ -1,0 +1,12 @@
+                                             
+Name: Desert Eagle
+Credits: 5
+Type: Handgun
+Caliber: .50 Action Express
+Capacity: 7 Round Box Magazine
+ROF: Semi Automatic
+Description:
+Widely known as the largest semi 
+automatic handgun in the world, the
+Desert Eagle's phenomenal power is
+unmatched by any other pistol.

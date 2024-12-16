@@ -1,0 +1,9 @@
+Combat Sniper
+light_armor
+helmet
+SSG3000
+anaconda
+claymore
+bandages
+marksmanship1
+marksmanship2

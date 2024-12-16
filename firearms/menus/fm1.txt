@@ -1,0 +1,12 @@
+This is the entry level skill for becoming a Medic. This skill is
+a line of sight skill meaning that if you perform an ability, it
+will take effect on the player standing directly in front of you.
+If there are no other players in front of you, the ability is
+used upon yourself. All abilities require a bandage (considered
+medical supplies) in the inventory for the ability to take effect.
+This skill grants you 2 abilities to perform and an additional 2
+bandages. The abilities are:
+
+  *Treat (useskill treat) - Restore 10 health, Apply bandage,
+         sustain casualty life.
+  *Give Bandage (useskill givebandage)

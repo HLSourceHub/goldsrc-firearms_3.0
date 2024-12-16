@@ -1,0 +1,19 @@
+The Grenadier configuration is tailored to players who prefer medium to long range combat, with the added bonus of a grenade launcher. While the M16A2 is limited to semi automatic and three round burst fire only, with a bit of practice it can be used just as effectively as any fully automatic weapon, and once you get a feel for the M203 grenade launcher, you will be raining grenades down on people with ease.
+
+Armor:
+Level III Kevlar Vest
+Kevlar Helmet
+Kevlar Arm Protection
+
+Items:
+Bandages
+
+Weapons:
+M92FS
+M16A2
+
+Explosives:
+M54 Fragementation Grenade
+
+Skills:
+Artillery I

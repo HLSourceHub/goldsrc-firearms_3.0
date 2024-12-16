@@ -1,0 +1,13 @@
+This classifies you as a Field Medic. This skill is a line of sight
+skill meaning that if you perform an ability, it will take effect
+on the player standing directly in front of you. If there are no
+other players in front of you, the ability is used upon yourself.
+All abilities require a bandage (considered medical supplies) in
+the inventory for the ability to take affect. This skill grants you
+3 abilities to perform and an additional 4 bandages. The abilities
+are:
+
+   *Treat (useskill treat) - Mend legs, restore 25 health, MEDEVAC
+          casualties, bandaging and give bandage.
+   *Adrenaline (useskill adrenaline) - Restore stamina.
+   *Set Hospice (useskill hospice) - Drop a hospice flag.

@@ -1,0 +1,8 @@
+M54 Fragmentation Grenade
+Credits: 2
+Type: Explosive
+Description:
+The M54 grenade consists of 3 metal shells
+packed with high explosive. Upon detonation
+the shells shatter into sharp fragments,
+ripping everything up within a short radius.

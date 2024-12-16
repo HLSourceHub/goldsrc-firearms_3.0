@@ -1,0 +1,12 @@
+global
+{
+	ZOOM	1.01
+	ORIGIN	-16.00	-976.00	96.00
+	ROTATED 1
+}
+
+layer
+{
+	IMAGE	overviews/ps_marie.bmp
+	HEIGHT 96.00
+}

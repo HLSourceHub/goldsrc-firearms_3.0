@@ -1,0 +1,12 @@
+global
+{
+	ZOOM	1.25
+	ORIGIN	205.53	58.67	-576.00
+	ROTATED 1
+}
+
+layer
+{
+	IMAGE	overviews/sd_force.bmp
+	HEIGHT -576.00
+}

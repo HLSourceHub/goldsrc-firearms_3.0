@@ -1,0 +1,420 @@
+// Command Menu Definitions
+//
+// Basic Format:
+//		"<Bound Key>" "<Button Text>" "<Command sent to server>"
+//
+// Or you can check for a specific class:
+//		<Class> "<BoundKey>" "<Button Text>" "<Command sent to server>"
+// Where <Class> is one of: SCOUT, SNIPER, SOLDIER, DEMOMAN, MEDIC, HWGUY, PYRO, SPY, ENGINEER
+//
+// Or you can check for a specific map:
+//		MAP <MapName> "<BoundKey>" "<Button Text>" "<Command sent to server>"
+// Where <MapName> is the name of the map, without the ".bsp".
+//
+// Or you can check for a specific team:
+//		TEAM1 "<BoundKey>" "<Button Text>" "<Command sent to server>"
+//		TEAM2 "<BoundKey>" "<Button Text>" "<Command sent to server>"
+// TEAM3, TEAM4 work as well
+//
+// Buttons can also open up submenus, as follows:
+// {
+// 	"Some More Options",
+//	{
+//		...
+//	}
+// }
+//
+// Class can be any of the following:
+//		SCOUT, SNIPER, SOLDER, DEMOMAN, MEDIC, HWGUY, PYRO, SPY, ENGINEER
+//	Buttons prepended with a class name will only be seen if the player
+//	is that class.
+//
+// Buttons preceded with "CUSTOM" are handled in special ways. They can only be moved
+// around or deleted.
+//
+//
+// Limitations:
+//		Maximum of 40 menus.
+//		Maximum of 100 buttons per menu.
+
+//--------------------------------------------------------
+// Everything below here is editable
+
+"1" "BRIEFING"
+
+	{
+
+		CUSTOM		"1" "MISSION BRIEFING"		"!MAPBRIEFING"
+		CUSTOM		"2" "RULES OF ENGAGEMENT"	"!SERVERINFO"
+
+	}
+
+"2" "PLAYER"
+
+	{
+
+		"1"	"NAME"		"name Freshmeat"
+		"2"	"AFK"		"name Freshmeat|AFK"
+		"3"	"CUSTOMIZE"	"customize"
+		"4"	"CHANGE TEAMS"	"changeteam"
+		"5"	"CHANGE VOICE SET"
+		{
+			"1"	"Teladro"	"setinfo voice 1"
+			"2"	"Wak"		"setinfo voice 2"
+			"3"	"Grunt"		"setinfo voice 3"
+		}
+
+
+	}
+
+"3" "RADIO COMMANDS"
+
+	{
+
+		"1"	"Yes Sir!"		"radio yes"
+		"2"	"Negative!"		"radio no"
+		"3"	"Under Heavy Fire!"	"radio underfire"
+		"4"	"Area Clear!"		"radio clear"
+SKILL4		"5" 	"Stay Here!"		"radio stay"
+SKILL4		"6"	"Move Out!"		"radio moveout"
+SKILL4		"7"	"Hold Your Fire!"	"radio holdfire"
+SKILL4		"8"	"Let's Go!"		"radio go"
+
+	}
+
+"4" "VOICE COMMANDS"
+
+	{
+
+		"1"	"Battle Cry"		"voice battlecry"
+		"2"	"Medic!"		"voice medic"
+		"3"	"Get Down!"		"voice getdown"
+		"4"	"Cover Me!"		"voice coverme"
+SKILL4		"5"	"Charge!"		"voice charge"
+SKILL4		"6"	"Hold This Position!"	"voice hold"
+SKILL4		"7"	"Fall back!"		"voice fallback"
+SKILL4		"8"	"Spread Out!"		"voice spread"
+
+	}
+
+MAP obj_armory "5" "ARMORY"
+
+	{
+
+		"1"		"'Help At Temple'"	"say_team I NEED BACKUP AT THE TEMPLE"
+		"2"		"'Help At Armory'"	"say_team I NEED BACKUP AT THE ARMORY"
+		"3"		"'I Have The Weapon'"	"say_team I HAVE THE WEAPON, COVER ME"
+		TEAM1	"4"	"'BLUE Has Weapon'"	"say_team BLUE HAS THE WEAPON, STOP THEM"
+		TEAM2	"4"	"'RED Has Weapon'"	"say_team RED HAS THE WEAPON, STOP THEM"
+		"5"		"'Help At Railroad'"	"say_team I NEED BACKUP AT THE RAILROAD"
+		"6"		"'Help In Town'"	"say_team I NEED BACKUP IN THE TOWN"
+		"7"		"'Help In Tunnel'"	"say_team I NEED BACKUP IN THE TUNNEL"
+		"8"		"'Help At Graveyard'"	"say_team I NEED BACKUP AT THE GRAVEYARD"
+
+	}
+
+MAP obj_bocage "5" "BOCAGE"
+
+	{
+
+		"1"	"'Help At Yard'"	"say_team I NEED BACKUP AT THE YARD GUN"
+		"2"	"'Help At Warehouse'"	"say_team I NEED BACKUP AT THE WAREHOUSE GUN"
+		"3"	"'Help at Field'"	"say_team I NEED BACKUP AT THE FIELD GUN"
+		"4"	"'Help At Bridge'"	"say_team I NEED BACKUP AT THE BRIDGE"
+		"5"	"'Gun Status'"		"say_team WHAT GUNS ARE UP"
+
+	}
+
+MAP obj_sweden "5" "SWEDEN"
+
+	{
+
+		TEAM1	"1"	"'I Have The Ammo'"		"say_team I HAVE THE AMMO, COVER ME"
+		TEAM2	"1"	"'RED Has Ammo'"		"say_team RED HAS THE AMMO, STOP THEM"
+		"2"		"'Help At Howitzer'"		"say_team I NEED BACKUP AT THE HOWITZER"
+		"3"		"'Help At Light House'"		"say_team I NEED BACKUP AT THE LIGHT HOUSE"
+		"4"		"'Help At Pathway'"		"say_team I NEED BACKUP AT THE PATHWAY"
+		"5"		"'Help At Field'"		"say_team I NEED BACKUP AT THE FIELD"
+		"6"		"'Help At Castle'"		"say_team I NEED BACKUP AT THE CASTLE"
+		"7"		"'Power On'"			"say_team LIGHT HOUSE IS POWERED UP"
+		"8"		"'Power Off'"			"say_team LIGHT HOUSE IS POWERED DOWN"
+
+	}
+
+MAP obj_thanatos "5" "THANATOS"
+
+	{
+
+		"1"	"DOCUMENTS"
+
+		{
+
+			"1"	"'Help At Documents'"		"say_team I NEED BACKUP AT THE DOCUMENTS"
+			"2"	"'Need Two More'"		"say_team WE NEED TWO MORE AT THE DOCUMENTS"
+			"3"	"'Need One More'"		"say_team WE NEED ONE MORE AT THE DOCUMENTS"
+			"4"	"'I Have The Documents'"	"say_team I HAVE THE DOCUMENTS, COVER ME"
+			"5"	"'Need Two Cap'"		"say_team WE NEED TWO AT OUR SPAWN TO CAP DOCUMENTS"
+			"6"	"'Need One Cap'"		"say_team WE NEED ONE AT OUR SPAWN TO CAP DOCUMENTS"
+
+		}
+
+		"2"	"OBJECTIVE"
+
+		{
+
+			"1"	"'Help At RED APC'"		"say_team I NEED BACKUP AT THE RED APC"
+			"2"	"'Help At RED Depot'"		"say_team I NEED BACKUP AT THE RED SUPPLY DEPOT"
+			"3"	"'Help At RED Radio'"		"say_team I NEED BACKUP AT THE RED RADIO"
+			"4"	"'Help At BLUE Depot'"		"say_team I NEED BACKUP AT THE BLUE SUPPLY DEPOT"
+			"5"	"'Help At BLUE Radio'"		"say_team I NEED BACKUP AT THE BLUE RAIDO"
+			"6"	"'Help At BLUE APC'"		"say_team I NEED BACKUP AT THE BLUE APC"
+
+		}
+
+		"3"	"'15 Seconds APC'"	"say_team FIFTEEN (15) SECONDS UNTIL OUR APC EXPLODES"
+		"4"	"'15 Seconds Depot'"	"say_team FIFTEEN (15) SECONDS UNTIL OUR SUPPLY DEPOT EXPLODES"
+		"5"	"'15 Seconds Radio'"	"say_team FIFTEEN (15) SECONDS UNTIL OUR RADIO EXPLODES"
+
+	}
+
+MAP obj_willow "5" "WILLOW"
+
+	{
+
+		TEAM1 "1"	"'I Have Targeting Pack'"	"say_team I HAVE THE TARGETING PACK, COVER ME"
+		TEAM1 "2"	"'Where Is Targeting Pack'"	"say_team WHERE IS THE TARGETING PACK"
+		TEAM1 "3"	"'Target Acquired'"		"say_team TARGET ACQUIRED, DEFEND THE MISSLE LAUNCHER"
+		TEAM2 "1"	"'Claymore'"			"say_team REMEMBER TO GET A CLAYMORE"
+		TEAM2 "2"	"'Blue Has Targeting Pack'"	"say_team BLUE HAS THE TARGETING PACK"
+		TEAM2 "3"	"'Launch Detected'"		"say_team ENEMY MISSLE LAUNCH DETECTED, BLOW THAT LAUNCHER"
+		"4"		"'Help At Command Post'"	"say_team I NEED BACKUP AT THE COMMAND POST"
+		"5"		"'Perimeter Alert'"		"say_team ENEMY SPOTED NEAR OUT BASE, STAY FROSTY"
+
+	}
+
+MAP ps_coldwar "5" "COLDWAR"
+
+	{
+
+		"1"	"'Help At Embassy'"		"say_team I NEED BACKUP AT THE EMBASSY"
+		"2"	"'Help At Bridge'"		"say_team I NEED BACKUP AT THE BRIDGE"
+		"3"	"'Help In Caves'"		"say_team I NEED BACKUP IN THE CAVES"
+		"4"	"'Help At Bunker'"		"say_team I NEED BACKUP AT THE BUNKER"
+		"5"	"'Help At Observatory'"		"say_team I NEED BACKUP AT THE OBSERVATORY"
+		"6"	"'Bridge Open'"			"say_team KEEP THE BRIDGE OPEN"
+		"7"	"'Bridge Close'"		"say_team KEEP BRIDGE CLOSED"
+		"8"	"'Avalanche'"			"say_team AVALANCHE PASS OPENED"
+
+	}
+
+MAP ps_crash "5" "CRASH"
+
+	{
+
+		TEAM1 "1"	"'Help At Our Base'"		"say_team I NEED BACKUP AT OUR BASE"
+		TEAM2 "1"	"'Help At RED'S Base'"		"say_team I NEED BACKUP AT RED'S BASE"
+		"2"		"'Help At Warehouse'"		"say_team I NEED BACKUP AT THE WAREHOUSE"
+		"3"		"'Help At House'"		"say_team I NEED BACKUP AT THE HOUSE"
+		"4"		"'Help In Town'"		"say_team I NEED BACKUP IN THE TOWN"
+		"5"		"'Help At Lake'"		"say_team I NEED BACKUP AT THE LAKE"
+		TEAM1 "6"	"'Help At BLUE'S Base'"		"say_team I NEED BACKUP AT BLUE'S BASE"
+		TEAM2 "6"	"'Help At Our Base'"		"say_team I NEED BACKUP AT OUR BASE"
+		"7"		"'Check Water'"			"say_team CHECK THE WATER, STAY FROSTY"
+		"8"		"'Use Tunnels'"			"say_team USE THE TUNNELS AND FLANK THEM"
+
+	}
+
+MAP ps_marie "5" "MARIE"
+
+	{
+
+		"1"	"'Help At Town'"		"say_team I NEED BACKUP IN THE TOWN"
+		"2"	"'Help At Supply Depot'"	"say_team I NEED BACKUP AT THE SUPPLY DEPOT"
+		"3"	"'Help At Bridge'"		"say_team I NEED BACKUP AT THE BRIDGE"
+		"4"	"'Help At Woods'"		"say_team I NEED BACKUP AT THE WOODED AREA"
+		"5"	"'Help At Blue Drop'"		"say_team I NEED BACKUP AT BLUE'S DROP POINT"
+		"6"	"'SNIPER'"			"say_team SNIPER ACROSS THE BRIDGE!"
+		"7"	"'Use Tunnels'"			"say_team USE THE TUNNELS AND FLANK THEM"
+		"8"	"'Check Ravine'"		"say_team CHECK THE RAVINE, STAY FROSTY"
+
+	}
+
+MAP ps_river "5" "RIVER"
+
+	{
+
+		"1"	"'Help At House'"		"say_team I NEED BACKUP AT THE FARM HOUSE"
+		"2"	"'Help At Barn'"		"say_team I NEED BACKUP AT THE BARN"
+		"3"	"'Help At River: TOP'"		"say_team I NEED BACKUP AT THE RIVER, TOP SIDE"
+		"4"	"'Help At River: BOTTOM'"	"say_team I NEED BACKUP AT THE RIVER, BOTTOM"
+		"5"	"'Help at Boulder'"		"say_team I NEED BACKUP AT THE BOULDER"
+		"6"	"'Help At Helipad'"		"say_team I NEED BACKUP AT THE HELIPAD"
+		"7"	"'Enemy In Woods'"		"say_team ENEMY IS IN THE WOODS NEAR OUR BASE, STAY FROSTY"
+
+	}
+
+MAP ps_splinter "5" "SPLINTER"
+
+	{
+
+		"1"	"'Help At Bombed Street'"		"say_team I NEED BACKUP AT THE BOMBED STREET"
+		"2"	"'Help At Circle Road'"			"say_team I NEED BACKUP AT THE CIRCLE ROAD"
+		"3"	"'Help At Raised Street'"		"say_team I NEED BACKUP AT THE RAISED STREET"
+		"4"	"'Help At Open Street'"			"say_team I NEED BACKUP AT THE OPEN STREET"
+		"5"	"'Help At Confined Alley'"		"say_team I NEED BACKUP AT THE CONFINED ALLEY"
+		"6"	"'Help At Collapsed Building'"		"say_team I NEED BACKUP AT THE COLLAPSED BUILDING"
+
+	}
+
+MAP ps_upham "5" "UPHAM"
+
+	{
+
+		"1"	"'Help At North (Red Spawn)'"	"say_team I NEED BACKUP AT THE NORTH SIDE (RED SPAWN)"
+		"2"	"'Help At Central (Church)'"	"say_team I NEED BACKUP AT THE CHURCH"
+		"3"	"'Help At South (Blue Spawn)'"	"say_team I NEED BACKUP AT THE SOUTH SIDE (BLUE SPAWN)"
+		"4"	"'Check Water'"			"say_team CHECK THE WATER, STAY FROSTY"
+
+	}
+
+MAP sd_durandal "5" "DURANDAL"
+
+	{
+
+		"1"		"'Help At Our Crates'"		"say_team I NEED BACKUP AT OUR CRATES"
+		TEAM1	"2"	"'Help At BLUE'S Crates'"	"say_team I NEED BACKUP AT BLUE'S CRATES"
+		TEAM2	"2"	"'Help At RED'S Crates'"	"say_team I NEED BACKUP AT RED'S CRATES"
+		"3"		"'Perimeter Alert'"		"say_team ENEMY SPOTED NEAR OUT BASE, STAY FROSTY"
+		"4"		"'Help At RED'S Apartments'"	"say_team I NEED BACKUP IN RED'S APARTMENTS"
+		"5"		"'Help At BLUE'S Apartments'"	"say_team I NEED BACKUP IN BLUE'S APARTMENTS"
+		"6"		"'Use Sewers'"			"say_team USE THE SEWERS AND FLANK THEM"
+		"7"		"'Check Sewer Exit'"		"say_team CHECK SEWER EXITS, STAY FROSTY"
+		"8"		"'Enemy Is Breaking Through'"	"say_team ENEMY HAS SET UP POSITIONS ON OUR SIDE OF THE BRIDGE"
+
+	}
+
+MAP sd_force "5" "FORCE"
+
+	{
+
+		"1"		"'Help At Our Crates'"		"say_team I NEED BACKUP AT OUR CRATES"
+		TEAM1	"2"	"'Help At BLUE'S Crates'"	"say_team I NEED BACKUP AT BLUE'S CRATES"
+		TEAM2	"2"	"'Help At RED'S Crates'"	"say_team I NEED BACKUP AT RED'S CRATES"
+		"3"		"'Perimeter Alert'"		"say_team ENEMY SPOTED NEAR OUT BASE, STAY FROSTY"
+		"4"		"'Help On Road'"		"say_team I NEED BACKUP ON THE ROAD"
+		"5"		"'Help In Alley'"		"say_team I NEED BACKUP IN THE ALLEY"
+		"6"		"'Help In Town'"		"say_team I NEED BACKUP IN THE TOWN"
+
+	}
+
+MAP sd_oberland "5" "OBERLAND"
+
+	{
+
+		"1"		"'Help At Our Crates'"		"say_team I NEED BACKUP AT OUR CRATES"
+		TEAM1	"2"	"'Help At BLUE'S Crates'"	"say_team I NEED BACKUP AT BLUE'S CRATES"
+		TEAM2	"2"	"'Help At RED'S Crates'"	"say_team I NEED BACKUP AT RED'S CRATES"
+		"3"		"'Perimeter Alert'"		"say_team ENEMY SPOTED NEAR OUT BASE, STAY FROSTY"
+		"4"		"'Help At Hotel'"		"say_team I NEED BACKUP IN THE HOTEL"
+		"5"		"'Help At Gate'"		"say_team I NEED BACKUP AT THE GATE HOUSE"
+		"6"		"'Avalanche Clear'"		"say_team AVALANCHE PASS IS CLEAR"
+		"7"		"'Avalanche Closed'"		"say_team AVALANCHE PASS IS CLOSED"
+
+	}
+
+MAP sdtc_balcome "5" "BALCOME"
+
+	{
+
+		"1"		"'Help At Our Truck'"		"say_team I NEED BACKUP AT OUR TRUCK"
+		TEAM1	"2"	"'Help At BLUE'S Truck'"	"say_team I NEED BACKUP AT BLUE'S TRUCK"
+		TEAM2	"2"	"'Help At RED'S Truck'"		"say_team I NEED BACKUP AT RED'S TRUCK"
+		"3"		"'Perimeter Alert'"		"say_team ENEMY SPOTED NEAR OUT BASE, STAY FROSTY"
+		"4"		"'Help At RED'S Bridge'"	"say_team I NEED BACKUP AT RED'S BRIDGE"
+		"5"		"'Help At BLUE'S Bridge'"	"say_team I NEED BACKUP AT BLUE'S BRIDGE"
+		"6"		"'Help At House'"		"say_team I NEED BACKUP AT THE HOUSE"
+
+	}
+
+MAP tc_basrah "5" "BASRAH"
+
+	{
+
+		"1"	"'Help At Chainsaw's"		"say_team I NEED BACKUP AT CHAINSAW'S HOUSE"
+		"2"	"'Help At Town Center'"		"say_team I NEED BACKUP AT THE TOWN CENTER"
+		"3"	"'Help At Zane's'"		"say_team I NEED BACKUP AT ZANE'S BALCONY"
+		"4"	"'Perimeter Alert'"		"say_team ENEMY SPOTED NEAR OUR BASE, STAY FROSTY"
+		"5"	"'Use Sewers'"			"say_team USE THE SEWERS AND FLANK THEM"
+		"6"	"'Check City Walls'"		"say_team CHECK THE CITY WALLS, STAY FROSTY"
+
+	}
+
+MAP tc_caen "5" "CAEN"
+
+	{
+
+		"1"		"'Help at Armory'"	"say_team I NEED BACKUP AT THE ARMORY"
+		"2"		"'Help At Radio'"	"say_team I NEED BACKUP AT THE RADIO"
+		"3"		"'Help At Train'"	"say_team I NEED BACKUP AT THE TRAIN STATION"
+		"4"		"'Perimeter Alert'"	"say_team ENEMY SPOTED NEAR OUT BASE, STAY FROSTY"
+		"5"		"'We Have The City'"	"say_team WE CONTROL THE CITY"
+		TEAM1	"6"	"'BLUE Has City'"	"say_team BLUE CONTROLS THE CITY"
+		TEAM2	"6"	"'RED Has City'"	"say_team RED CONTROLS THE CITY"
+
+	}
+
+MAP tc_golan "5" "GOLAN"
+
+	{
+
+		"1"	"'Help At Town'"	"say_team I NEED BACKUP AT THE TOWN"
+		"2"	"'Help In Bunker'"	"say_team I NEED BACKUP IN THE BUNKER"
+		"3"	"'Help At APC'"		"say_team I NEED BACKUP AT THE APC"
+		"4"	"'Sniper Right Side'"	"say_team SNIPER, RIGHT SIDE"
+		"5"	"'Sniper Left Side'"	"say_team SNIPER, LEFT SIDE"
+		"6"	"'Sniper Center'"	"say_team SNIPER, STRIGHT AHEAD"
+
+	}
+
+MAP tc_iwojima "5" "IWOJIMA"
+
+	{
+
+		"1"	"'Help At CP1 (RED'S)'"		"say_team I NEED BACKUP AT COMMAND POINT ONE (RED'S)"
+		"2"	"'Help At CP2 (BLUE'S)'"	"say_team I NEED BACKUP AT COMMAND POINT TWO (BLUE'S)"
+		"3"	"'Help, Right Tunnel'"		"say_team I NEED BACKUP IN THE RIGHT TUNNEL"
+		"4"	"'Help, Left Tunnel'"		"say_team I NEED BACKUP AT THE LEFT TUNNEL"
+		"5"	"'Help At Gun'"			"say_team I NEED BACKUP AT OUR MOUNTED GUN"
+
+	}
+
+"6" "TEAM MESSAGE"
+
+	{
+
+		"1"	"'Acknowledged'"		"say_team ACKNOWLEDGED"
+		"2"	"'Negative'"			"say_team NEGATIVE"
+		"3"	"'Playing Offense'"		"say_team PLAYING OFFENSE"
+		"4"	"'Playing Defense'"		"say_team PLAYING DEFENSE"
+		"5"	"'On My Way'"			"say_team ON MY WAY"
+		"6"	"'Move Up'"			"say_team MOVE UP! MOVE UP!"
+		"7"	"'Friendly Fire'"		"say_team CHECK YOUR TARGET SOLDIER, FRIENDLY FIRE"
+
+	}
+
+"7" "SKILLS"
+
+	{
+
+		"1"	"Show Skills"		"showskills"
+SKILL5		"2"	"Treat Patient"		"useskill treat"
+SKILL5		"3"	"Give Bandage"		"useskill givebandage"
+SKILL6		"4"	"Give Adrenaline"	"useskill adrenaline"
+SKILL6		"5"	"Set Hospice"		"useskill hospice; say_team COME TO THE HOSPICE IF YOU NEED A MEDIC"
+SKILL7		"6"	"Artillery Marker"	"useskill marker"
+SKILL7		"7"	"Request Artillery"	"useskill reqart"
+SKILL8		"8"	"Build Mortar"		"useskill buildmortar; say_team MORTAR IS UP"
+SKILL8		"9"	"Dismantle Mortar"	"useskill dismantle; say_team MORTAR HAS BEEN DISMANTLED"
+
+	}
+

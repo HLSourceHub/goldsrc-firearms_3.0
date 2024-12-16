@@ -1,0 +1,21 @@
+                                             
+Name: M14
+Credits: 13
+Type: Battle Rifle
+Caliber: 7.62x51mm NATO
+Capacity: 20 Round Box Magazine
+ROF: Semi Automatic
+Description:
+The M14 rifle was adopted by the US military
+in 1957 as a replacement for the M1 Garand.
+While it was capable of fully automatic firing,
+it was usually issued locked in semi automatic
+mode, to avoid the waste of ammunition.
+Production ceased in 1964 after disappointing
+performance in South East Asia, and it was
+gradually replaced with the M16 assault rifle.
+However, it is still popular amongst special
+operations groups such as the US Navy's SEALs.
+
+[To use the A.C.O.G scope on the M14, you
+must choose the "Marksmanship I" skill.]

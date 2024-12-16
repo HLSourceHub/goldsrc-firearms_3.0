@@ -1,0 +1,58 @@
+SD_Oberland
+By Alex Jordan (aka AlejandroDaJ)
+
+--==STORY==--
+A heavily armed group of the Red Workers' Faction (Red team) has
+set up operations in a chateau to the northeast of a quiet
+mountaintop village in the German Alps. German GSG-9 forces (Blue
+team) have arrived at the village via the gondola line to wipe out
+the RWF's supplies. However, the terrorists are aware that the
+GSG-9 ammo dumps are vulnerable. As a cold autumn night descends, 
+the two groups begin battling within the sleepy hamlet...
+
+--==BLUE TEAM==--
+Use claymores to destroy the Red Crates, located in the Inn cellar
+and inside of the Red chateau's garage.
+
+-==RED TEAM==--
+Use claymores to destroy the Blue Crates, located in the village
+square's gatehouse and at the Gondola Landing to the south.
+
+---===2.9 Changes===---
+•Team respawning due to claying the chateau or gondola crates
+has been removed. The round no longer resets.
+
+---===2.8 Changes===---
+•Claymores removed from the music room
+•Claying either the chateau or gondola crates causes both teams
+to respawn [REMOVED]
+
+
+
+
+--==NOTES==--
+•R_speeds are rough in a couple of areas (800-900) and I managed
+to find one area with r_speeds of 1000. But, otherwise, it shouldn't
+be a major issue.
+•The statue in the village square is a free, downloadable female model
+file on 3dcafe.com. I'm simply using it as a "placeholder" right now,
+as it has too many epolys to be useful. I'm waiting for a better, more
+low-poly statue from Ben.
+•No Menkeys yet!  :(       I MUST FIX THAT.
+
+--==CREDITS==--
+The snowy-tree model courtesy of:
+•Gearbox software
+
+Texturing courtesy of:
+•Ikka/Fingers
+•Cid (and Deraj)
+•the Mad Interior wad
+•Remedy Entertainment's "Max Payne"
+•Archer (thanks for the prefabs, too)
+•Belial
+•Marty
+•JimmyRingo
+•Cop (m00)
+•Graham Davis
+•Valve Software

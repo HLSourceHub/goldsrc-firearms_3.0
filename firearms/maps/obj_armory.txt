@@ -1,0 +1,45 @@
+ARMORY (Objective)
+
+ By James Trogdon (aka AirWolf)
+
+** Note: this map supports detail textures. 
+   To turn this on, type r_detailtextures 1 
+   in the console.  This works only in Steam 
+   and with newer graphics cards.
+**
+	
+CTF: Capture the Firearm
+-------------------------------
+
+Blue Team Objective:
+
+A temple has been unearthed after a war
+time explosion.  The temple was discovered
+to be a weapon prototype storage area of
+the insidious Red Army.  The Blue Team must
+steal the Red Team's prototype firearm and
+return it to their Ammory.  The Blue Team
+must also protect their own weapon prototype
+in order to tip the balance of power in their
+favor.
+
+Red Team Objective:
+
+Learning that their weapon prototype storage
+facility has been discovered,  the Red Team
+has parachuted in to protect their prototype
+firearm from falling into enemy hands.
+The Red Team must now steal the Blue Team's
+prototype firearm and return it to their
+Temple while keeping their firearm safe and
+secure.  
+
+Scoring:
+
+The team that captures the firearm will
+receive +5 reinforcements while the enemy
+team will lose -5 reinforcements.
+
+The individual who performs the capture will
+receive 5 points and the team will receive
+3 points.

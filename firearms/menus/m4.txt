@@ -1,0 +1,18 @@
+                                             
+Name: M4 Carbine
+Credits: 13
+Type: Assault Rifle
+Caliber: 5.56x45mm NATO
+Capacity: 30 Round Box Magazine
+ROF: 750 Rounds Per Minute
+Description:
+The M4 carbine is effectively an M16A2 with
+a shorter barrel and telescopic stock.
+Due to its shorter length and fully automatic
+capabilities, it has become a favorite for
+close quarters urban combat for both military
+and law enforcement groups.
+
+[To suppress this weapon, you must have
+the "Stealth" skill.  Secondary fire attaches
+and detatches the suppressor.]

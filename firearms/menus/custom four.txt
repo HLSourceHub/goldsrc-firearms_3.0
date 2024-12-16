@@ -1,0 +1,12 @@
+Specialist
+light_armor
+helmet
+legs
+arms
+MP5
+92f
+frag
+conc
+claymore
+bandages
+stealth

@@ -1,0 +1,12 @@
+                                             
+Name: PKM
+Credits: 17
+Type: General Purpose Machine Gun
+Caliber: 7.62x54mm Rimmed
+Capacity: Belt-Ded, 100 Round Boxes
+ROF: 700 Rounds Per Minute
+Description:
+With a high ROF and a heavy-caliber round,
+the PKM provides a great deal of firepower
+in a very short period of time, at the expense
+of running through ammunition very quickly.

@@ -1,0 +1,12 @@
+                                             
+Name: M-1911A1
+Credits: 4
+Type: Handgun
+Caliber: .45 ACP
+Capacity: 7 Round Box Magazine
+ROF: Semi Automatic
+Description:
+The US Military sidearm until 1985, this
+heavy-hitting pistol is still found in the
+holsters of many soldiers who value its
+reliability and stopping power.

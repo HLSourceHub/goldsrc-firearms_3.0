@@ -1,0 +1,7 @@
+Machinegunner
+medium_armor
+helmet
+M60
+1911a1
+marksmanship1
+marksmanship2

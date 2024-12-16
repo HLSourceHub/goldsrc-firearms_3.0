@@ -1,0 +1,4 @@
+Makes a request for mortar fire at the location of your marker.
+A request will time out after a few minutes so if you desire
+more mortar fire to be directed at your marker, then you will
+need to initiate this command every so often.

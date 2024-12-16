@@ -1,0 +1,8 @@
+
+Name: Level IV Kevlar Vest
+Credits: 10
+Type: Armor
+Description:
+Provides the maximum protection against
+bullet penetration with the sacrifice of high
+penalties to the user's endurence.

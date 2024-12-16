@@ -1,0 +1,5 @@
+This is the knowledge of weapons and what makes them
+work. A love for the firearm.
+
+Provides a -25% reload time when reloading magazine
+based weapons.

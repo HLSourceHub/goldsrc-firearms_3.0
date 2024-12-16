@@ -1,0 +1,7 @@
+FORCE (Search and Destroy)
+
+by Jon Monaghan
+
+RED TEAM: Destroy the Blue Team's crate
+
+BLUE TEAM: Destroy the Red Team's crate

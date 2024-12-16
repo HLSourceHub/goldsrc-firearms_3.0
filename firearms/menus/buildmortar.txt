@@ -1,0 +1,6 @@
+Builds a mortar directly in front of you. If the mortar has no
+supply of rounds, you can press your "use" button to supply it.
+More mortar rounds can be obtained from ammo boxes. You can
+only carry 5 at one time. The mortar must be completely out of
+supply before it can be resupplied. To fire a supplied mortar,
+press your "use" button.

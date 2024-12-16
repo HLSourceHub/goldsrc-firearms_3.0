@@ -1,0 +1,34 @@
+River (Push)
+ 
+By Graham Davis
+
+Special thanks to:
+
+• Belial for the side tree texture
+• Ben for the splash sprite
+• Svante Ekholm for some of the bush textures
+
+Gameplay notes:
+
+You can turn both the fog and rain effects off with
+client side variables (consult the online manual
+for info).  I do not consider either of
+these (turning them off) to be cheap.  If you enjoy
+the extra atmosphere of the fog and rain, then 
+please keep them on.  If you wish to gain every
+little advantage you can, or if the effects cause
+major slowdown on your computer, then please, turn
+them off.  Everyone has the choice to keep them on
+or off, so please don't complain about them.
+Thanks.
+
+
+Objectives:
+
+Each team must try to capture all check points of the map
+in sequence. Once your team captures all push points, all
+players respawn, your team's reinforcements increase by 
+10, and the members of the scoring team gains 5 points
+each.  Also, each push point acts as a control point. 
+This means that every minute, the opposing team loses
+1 reinforcement for each point your team controls. 

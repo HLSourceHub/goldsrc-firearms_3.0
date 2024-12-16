@@ -1,0 +1,18 @@
+Upham - City conquer (Push)
+
+  By Toni Hiltunen (toni@planethalflife.com)
+
+Each team must try to capture all
+capture points of the map.
+Once your team captures all 3 capture points,
+all players respawn,
+your team's lives increase,
+and the team gains points
+
+There are 3 capture points in this mission.
+One in North part of the town,
+2nd in the church (middle of the city) and
+3rd in southern part of the town.
+
+Visit my site at Planet Half-Life:
+http://www.planethalflife.com/hiltunen

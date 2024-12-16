@@ -1,0 +1,12 @@
+                                             
+Name: G36E
+Credits: 13
+Type: Assault Rifle
+Caliber: 5.56x45mm NATO
+Capacity: 30 Round Box Magazine
+ROF: 600 Rounds Per Minute
+Description:
+Although it's integrated optical scope allows
+for precision shots at longer ranges, the
+low rate of fire of the G36E makes it less
+than ideal for close-quarters fighting.

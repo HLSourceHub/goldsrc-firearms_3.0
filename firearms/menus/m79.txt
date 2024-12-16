@@ -1,0 +1,13 @@
+                                             
+Name: M79
+Credits: 9
+Type: Grenade Launcher
+Caliber: 40mm HE
+Capacity: Breech-Loaded, Single Shot
+ROF: Single Shot
+Description:
+A skilled soldier equipped with an M79
+can put a grenade virtually anywhere,
+making this weapon ideal for flushing out
+snipers, as well as clearing fox holes
+and bunkers.

@@ -1,0 +1,259 @@
+// name			res sprite	left	top	width	hieght
+
+219
+selection		320 320hud02	80	160	80	20
+
+bucket1			320 320hud02	178	0	12	12
+bucket2			320 320hud02	190	0	12	12
+bucket3			320 320hud02	202	0	12	12
+bucket4			320 320hud02	178	12	12	12
+bucket5			320 320hud02	190	12	12	12
+bucket6			320 320hud02	202	12	12	12
+bucket7			320 320hud02	178	24	12	12
+bucket8			320 320hud02	190	24	12	12
+bucket0			320 320hud02	202	24	12	12
+
+dmg_bio			320 320hud4	0	0	32	32
+dmg_poison		320 320hud4	0	0	32	32
+dmg_chem		320 320hud4	32	0	32	32
+dmg_cold		320 320hud4	64	0	32	32
+dmg_drown		320 320hud4	96	0	32	32
+dmg_heat		320 320hud4	128	0	32	32
+dmg_gas			320 320hud4	160	0	32	32
+dmg_rad			320 320hud4	192	0	32	32
+dmg_shock		320 320hud4	224	0	32	32
+dmg_conc		320 320hud02	160	60	32	32
+
+number_0		320 320hud02	169	48	9  12
+number_1		320 320hud02	160	0	9  12
+number_2		320 320hud02	169	0	9  12
+number_3		320 320hud02	160	12	9  12
+number_4		320 320hud02	169	12	9  12
+number_5		320 320hud02	160	24	9  12
+number_6		320 320hud02	169	24	9  12
+number_7		320 320hud02	160	36	9  12
+number_8		320 320hud02	169	36	9  12
+number_9		320 320hud02	160	48	9  12
+
+semi_auto		320 320hud02	80	196	48	8
+burst			320 320hud02	80	188	48	8
+full_auto		320 320hud02	80	180	48	8
+
+divider			320 320hud02	214	0	1	20
+
+cross			320 320hud02	160	108	20	16
+firstaid		320 320hud02	192	60	32	32
+
+suit_full		320 320hud02	38	180	20	20
+suit_empty		320 320hud02	38	200	20	20
+
+armor_base		320 320hud02	80	225	20	30
+armor_chest		320 320hud02	100	225	20	30
+armor_helmet		320 320hud02	120	225	20	30
+armor_rtarm		320 320hud02	140	225	20	30
+armor_ltarm		320 320hud02	160	225	20	30
+armor_rtleg		320 320hud02	180	225	20	30
+armor_ltleg		320 320hud02	200	225	20	30
+
+flash_full		320 320hud02	0	240	18	16
+flash_empty		320 320hud02	16	240	18	16
+flash_beam		320 320hud02	32	240	6	16
+
+train_back		320	320hud3 0	0	48	48
+train_stop		320	320hud3 48	0	48	48
+train_forward1		320	320hud3 96	0	48	48
+train_forward2		320	320hud3 144	0	48	48
+train_forward3		320	320hud3 192	0	48	48
+
+title_half		320 320hud3 0	48	128	16
+title_life		320 320hud3 128 48	116	16
+
+d_knife			320	deaths	0	0	49  	16
+d_coltgov		320	deaths	0	16	22	16
+d_desert		320	deaths	0	32	27	16
+d_ber93r		320	deaths	0	48	24 	16
+d_anaconda		320	deaths	0	64	31	16
+d_ber92f		320	deaths	0	80	23	16
+d_mp5a5			320	deaths	0	96	44	16
+d_uzi			320	deaths	0	112	48	16
+d_ak74			320	deaths	0	128	54	16
+d_gp25			320	deaths	0	144	44	16
+d_m16			320	deaths	0	160   	54	16
+d_m203			320	deaths	0	176 	37	16
+d_ak47			320	deaths	0	192	53	16
+d_bayonet		320	deaths	0	208    	56	16
+d_sterling		320	deaths	0	224	48	16
+d_bizon			320	deaths	0	240	45	16
+d_saiga			320	deaths	64	0	60	16
+d_remington		320	deaths	64	16	54	16
+d_m249			320	deaths	64	32	60	16
+d_m60			320	deaths	64	48	56	16
+d_m82			320	deaths	64	64	62	16
+d_ssg3000		320	deaths	64	80	52	16
+d_svd			320	deaths	64	96	58	16
+d_m79			320	deaths	64	112	43	16
+d_launcher		320	deaths	64	112	43	16
+d_famas			320	deaths	64	128	40	16
+d_g36e			320	deaths	64	144	50	16
+d_g3a3			320	deaths	64	160	62	16
+d_pkm			320	deaths	64	176	62	16
+d_frag			320	deaths	64	192	23	16
+d_concussion		320	deaths	64	208	29	16
+d_m4			320	deaths	64	224	46	16
+d_m14			320	deaths	64	240	58	16
+d_mortar		320	deaths	24	16	16	16
+d_weapmortar		320	deaths	24	16	16	16
+d_mortar_shell		320	deaths	24	16	16	16
+d_bleed			320	deaths	42	16	10	16
+d_ammobox		320	deaths	29	32	23	16
+d_chute			320	deaths	26	48	16	16
+d_skull			320	deaths	33	64	26	16
+d_tracktrain		320	deaths	25	80	33	16
+d_claymore		320	deaths	89	192	23	16
+
+item_battery		320 	320hud02	0	235	20	20
+item_bandage		320	320hud02 	192	60	32	32
+item_longjump		320	320hud02	0	215	20	20
+
+grenade			320 320hud02     180      92      18      18
+
+parachute		320 320hud02	224	60	32	32
+brokenleg		320 320hud02	192	166	32	32
+gotitem			320 320hud02	224	166	32	32
+ranks			320 320hud02	80	209	112	16
+bipod			320 320hud02	224	24	32	32
+blood			320 640hud06_2	192	192	64	64
+
+rein			320 rein	0	0	32	64
+fatigue			320 fatigue	0	0	32	64
+
+//===========================================
+
+
+selection		640 640hud01_2	0	180	170	45
+
+bucket1			640 640hud01	0	236	20	20
+bucket2			640 640hud01	20	236	20	20
+bucket3			640 640hud01	40	236	20	20
+bucket4			640 640hud01	60	236	20	20
+bucket5			640 640hud01	80	236	20	20
+bucket6			640 640hud01	100	236	20	20
+bucket7			640 640hud01	120	236	20	20
+bucket8			640 640hud01	140	236	20	20
+bucket0			640 640hud01	160	236	20	20
+
+dmg_bio			640 640hud8	128	0	64	64
+dmg_poison		640 640hud8	128	0	64	64
+dmg_chem		640 640hud8	0	0	64	64
+dmg_cold		640 640hud9	64	0	64	64
+dmg_drown		640 640hud8	64	0	64	64
+dmg_heat		640 640hud9	128	0	64	64
+dmg_gas			640 640hud9	0	0	64	64
+dmg_rad			640 640hud9	192 	0	64	64
+dmg_shock		640 640hud8	192	0	64	64
+dmg_conc		640 640hud01	192	0	64	64
+
+number_0		640 640hud01_2	241	18	15	18
+number_1		640 640hud01_2	181	0	15	18
+number_2		640 640hud01_2	196	0	15	18
+number_3		640 640hud01_2	211	0	15	18
+number_4		640 640hud01_2	226	0	15	18
+number_5		640 640hud01_2	241	0	15	18
+number_6		640 640hud01_2	181	18	15	18
+number_7		640 640hud01_2	196	18	15	18
+number_8		640 640hud01_2	211	18	15	18
+number_9		640 640hud01_2	226	18	15	18
+
+semi_auto		640 640hud01	0	212	96	16
+burst			640 640hud01	0	196	96	16
+full_auto		640 640hud01	0	180	96	16
+
+divider			640 640hud01	180	216	2	40
+
+cross			640 640hud01_2	216	36	40	24
+firstaid		640 640hud01_2	184	36	32	32
+
+suit_full		640 640hud06	96	180	40	40
+suit_empty		640 640hud06	136	180	40	40
+
+armor_base		640 640hud01_2	175	100	40	60
+armor_chest		640 640hud01_2	215	100	40	60
+armor_helmet		640 640hud06	175	160	40	60
+armor_rtarm		640 640hud01_2	215	160	40	60
+armor_ltarm		640 640hud01_2	175	160	40	60
+armor_rtleg		640 640hud06	215	100	40	60
+armor_ltleg		640 640hud06	175	100	40	60
+
+flash_full		640 640hud06	179	228	32	32
+flash_empty		640 640hud06	131	228	32	32
+flash_beam		640 640hud06 	163	228	16	32
+
+train_back		640	640hud5 170	0	72	72
+train_stop		640	640hud5 170	72	72	72
+train_forward1		640	640hud5 170	144	72	72
+train_forward2		640	640hud6 170	0	72	72
+train_forward3		640	640hud6 170	72	72	72
+
+autoaim_c		640 	crosshairs	0	0	1	1
+
+title_half		640 640hud4	0	226	256	30
+title_life		640 640hud5	0	226	220	30
+
+d_knife			640	deaths	0	0	49  	16
+d_coltgov		640	deaths	0	16	22	16
+d_desert		640	deaths	0	32	27	16
+d_ber93r		640	deaths	0	48	24 	16
+d_anaconda		640	deaths	0	64	31	16
+d_ber92f		640	deaths	0	80	23	16
+d_mp5a5			640	deaths	0	96	44	16
+d_uzi			640	deaths	0	112	48	16
+d_ak74			640	deaths	0	128	54	16
+d_gp25			640	deaths	0	144	44	16
+d_m16			640	deaths	0	160   	54	16
+d_m203			640	deaths	0	176 	37	16
+d_ak47			640	deaths	0	192	53	16
+d_bayonet		640	deaths	0	208    	56	16
+d_sterling		640	deaths	0	224	48	16
+d_bizon			640	deaths	0	240	45	16
+d_saiga			640	deaths	64	0	60	16
+d_remington		640	deaths	64	16	54	16
+d_m249			640	deaths	64	32	60	16
+d_m60			640	deaths	64	48	56	16
+d_m82			640	deaths	64	64	62	16
+d_ssg3000		640	deaths	64	80	52	16
+d_svd			640	deaths	64	96	58	16
+d_m79			640	deaths	64	112	43	16
+d_launcher		640	deaths	64	112	43	16
+d_famas			640	deaths	64	128	40	16
+d_g36e			640	deaths	64	144	50	16
+d_g3a3			640	deaths	64	160	62	16
+d_pkm			640	deaths	64	176	62	16
+d_frag			640	deaths	64	192	23	16
+d_concussion		640	deaths	64	208	29	16
+d_m4			640	deaths	64	224	46	16
+d_m14			640	deaths	64	240	58	16
+d_mortar		640	deaths	24	16	16	16
+d_weapmortar		640	deaths	24	16	16	16
+d_mortar_shell		640	deaths	24	16	16	16
+d_bleed			640	deaths	42	16	10	16
+d_ammobox		640	deaths	29	32	23	16
+d_chute			640	deaths	26	48	16	16
+d_skull			640	deaths	33	64	26	16
+d_tracktrain		640	deaths	25	80	33	16
+d_claymore		640	deaths	89	192	23	16
+
+item_battery		640 640hud06	212	0	44	44
+item_bandage		640 640hud01_2	184	36	32	32
+item_longjump		640 640hud06	212	44	44	44
+
+grenade			640 640hud01_2     228      0      28      28
+
+parachute		640 640hud01	192	64	64	64
+brokenleg		640 640hud01	192	128	64	64
+gotitem			640 640hud01	192	192	64	64
+rein			640 rein	0	0	32	64
+bipod			640 640hud03	192	0	64	64
+blood			640 640hud06_2  192	192	64	64
+
+ranks			640 ranks	0	240	112	16
+fatigue			640 fatigue	0	0	32	64

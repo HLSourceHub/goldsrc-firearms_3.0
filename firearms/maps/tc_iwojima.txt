@@ -1,0 +1,11 @@
+tc_iwojima
+
+ By Tylak
+
+There are 2 control points placed on the battle field.
+Hold one of the marked control points and gain 1 
+point for every 60 seconds you hold it. You cannot
+capture the enemy's spawn area, it is not a control
+point.
+
+Have fun :)

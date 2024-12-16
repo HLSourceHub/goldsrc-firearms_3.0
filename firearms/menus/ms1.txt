@@ -1,0 +1,4 @@
+This is the proficiency of weapon usage. You are disciplined
+in breathing techniques or perhaps a natural with weapons.
+
+Provides +1 bonus to accuracy.

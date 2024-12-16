@@ -1,0 +1,9 @@
+Scout
+medium_armor
+helmet
+legs
+g36e
+deagle
+conc
+bandages
+artillery1

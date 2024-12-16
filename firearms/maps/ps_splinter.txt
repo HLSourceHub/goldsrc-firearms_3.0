@@ -1,0 +1,22 @@
+Splinter Factions (Push) : 8-32 players
+
+By Zach "VonFerret" Ford
+Special thanks to Cassius for texture manipulation
+
+-== Objective==-
+
+Blue Team: 
+The United States has actively invaded your small 
+city in South America. Organize your army regulars 
+to defend your home from these foreign conquerers.
+Capture the city and push the United States marines
+out of the city.
+
+Red Team:
+Too long has corruption and greed gripped the throats
+of innocent lifes in South America. Join the crusade
+to destroy the warlords of South America. Capture 
+the whole city and recieve for reinforcements.
+
+
+

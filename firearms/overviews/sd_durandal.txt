@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.17
+	ORIGIN	568.00 	-1360	-969.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/sd_durandal.bmp"
+	HEIGHT	-969.00
+}

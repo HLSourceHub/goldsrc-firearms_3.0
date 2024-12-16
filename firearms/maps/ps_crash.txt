@@ -1,0 +1,47 @@
+PS_CRASH
+
+By Dsleeper & Everyday Atrocity
+Custom Textures By Belial
+Optimizations and Sound By Chainsaw
+
+
+-----
+Text by Anla Shock:
+On a small island in the pacific ocean:
+In an attempt to turn the tide of the war, Red force commanders 
+have opted to cut Blue ammo supplies with a decisive strike 
+against one of the largest underground munitions depots. 
+Artillery defense thwarted the red attack when the lead 
+troop-carrying truck was overturned, blocking the path for the 
+rest of the platoon. Now, the Red force must move in on foot to 
+continue the assault. 
+
+Red Force: Despite losing the trucks, keep pushing the attack on
+foot. Secure the city and capture the Blue bunker to take 
+control of the ammo stores. This will cut Blue ammo supplies to 
+the front. Cutting supplies turn the war in our favor. 
+
+Blue force: Hold the bunker at all costs, and scramble troops 
+to intercept the incoming forces. Secure the crash zone and 
+repell the attack. The ammo depot is vital to the success 
+of the blue campaign.
+
+Please forward any comments on this map to:
+Dsleeper@dsleeper.no
+http:\\www.dsleeper.net
+-----
+
+Special thanks to:
+
+Graham
+Dsleeper
+Bel
+Prowl
+The texture artists of de_valore for the waterfall texture.
+Electronic_Nightmare
+All the clans/servers who devoted time for testing
+	-=CMF=-
+	TTP
+	The Armoury
+	[D]are [D]evil
+And everyone else thank you all.

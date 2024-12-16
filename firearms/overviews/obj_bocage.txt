@@ -1,0 +1,12 @@
+global
+{
+	ZOOM	0.84
+	ORIGIN	272	-32	-1424.00
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	overviews/obj_bocage.bmp
+	HEIGHT -1424.00
+}

@@ -1,0 +1,47 @@
+Cold War (Push) : 6-16 players
+
+By Graham Davis
+Special thanks to Tim Rice for boulder models.
+
+-== Gameplay notes ==-
+
+You can turn both the fog and snow effects off with
+client side variables (consult the online manual
+for info).  I do not consider either of
+these (turning them off) to be cheap.  If you enjoy
+the extra atmosphere of the fog and rain, then 
+please keep them on.  If you wish to gain every
+little advantage you can, or if the effects cause
+major slowdown on your computer, then please, turn
+them off.  Everyone has the choice to keep them on
+or off, so please don't complain about them.
+Thanks.
+
+-== Objective==-
+
+This is a snowy push map with 4 flag areas.  Your
+team must push the opposing team back to their base
+while capturing all flag areas in sequence.
+Once you capture all points, your whole team gets
+5 points each and 10 reinforcements.  Each push
+point also acts as a control point.  This means
+every minute, the opposing team loses 1
+reinforcement for each point your team controls.
+
+-== MAP NOTES ==-
+every 60 seconds an avalanche occurs in the area 
+which is an alternate route to the bridge.  The
+avalanche will fill the ravine with snow so you
+can pass, but it only lasts for 20 seconds before
+it collapses again.  Also, mortars are fired
+throughout the level's craters, so watch out for
+those!
+
+-== How to Parachute ==-
+To parachute, grab a parachute backpack in the plane
+and jump out of the plane.  while in mid-air, press
+your USE button to open the chute.  You can press
+USE again at any time to close the chute.  Once you
+land, if you have not yet closed your chute, it will slow
+you down until you do.  You get one parachute use per
+backpack.

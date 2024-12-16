@@ -1,0 +1,7 @@
+
+Name: Bandages
+Credits: 1
+Type: Medical Item
+Description:
+Stops bleeding from wounds sustained 
+in battle.
